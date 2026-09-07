@@ -20,6 +20,7 @@ import base64
 import os
 import re
 import time
+from urllib.parse import urlsplit
 
 __all__ = [
     "LoginError",
@@ -71,6 +72,9 @@ class ZhengfangClient:
         self.base_url = base_url.rstrip("/")
         self.timeout = timeout
         self.max_retries = max_retries
+        self.verbose = os.environ.get("JWGL_DEBUG", "0") == "1"
+        o = urlsplit(self.base_url)
+        self.origin = f"{o.scheme}://{o.netloc}"
         self.session = requests.Session()
         self.session.headers["User-Agent"] = _USER_AGENT
         self.session.headers["Referer"] = self.base_url + "/xtgl/login_slogin.html"
@@ -83,6 +87,9 @@ class ZhengfangClient:
         import requests
 
         kw.setdefault("timeout", self.timeout)
+        if method.upper() == "POST":
+            headers = kw.setdefault("headers", {})
+            headers.setdefault("Origin", self.origin)
         url = self.base_url + path
         last_err = None
         for _ in range(self.max_retries):
@@ -92,6 +99,10 @@ class ZhengfangClient:
                 last_err = e
                 time.sleep(1)
         raise LoginError(f"网络请求失败: {url} ({last_err})")
+
+    def _log(self, *a):
+        if self.verbose:
+            print("[jwgl]", *a)
 
     # -- 登录 -------------------------------------------------------------
     def _get_csrftoken(self, html: str) -> str:
@@ -106,7 +117,7 @@ class ZhengfangClient:
 
     def login(self, username: str, password: str) -> None:
         """完整登录；成功后 self.session 已带登录态 Cookie。"""
-        # 1) 登录页
+        # 1) 登录页（取 csrftoken；csrftoken 与本次会话 Cookie 绑定）
         r = self._request("GET", "/xtgl/login_slogin.html")
         if r.status_code >= 400:
             raise LoginError(f"访问登录页失败 HTTP {r.status_code}")
@@ -118,8 +129,7 @@ class ZhengfangClient:
             "/xtgl/login_getPublicKey.html?time=%d" % int(time.time() * 1000),
         )
         key = r.json()
-        modulus = key["modulus"]
-        exponent = key["exponent"]
+        modulus, exponent = key["modulus"], key["exponent"]
 
         # 3) 提交登录（密码被提交两次：页面输入框 + 隐藏的 #hidMm 同名框，键序固定）
         mm = rsa_encrypt_b64(modulus, exponent, password)
@@ -137,8 +147,28 @@ class ZhengfangClient:
             data=data,
             allow_redirects=False,
         )
-        # 2xx/3xx 都继续，真正的校验在下一步——去取业务页，能拿到业务内容才算成功
-        # 4) 校验 + 读当前学期
+        self._log("POST login ->", r.status_code,
+                  "Location:", r.headers.get("Location"),
+                  "Set-Cookie:", r.headers.get("Set-Cookie"))
+
+        # 4) 探测登录是否成功：再访登录页，若会话已登录会被 302 到主页
+        probe = self._request("GET", "/xtgl/login_slogin.html", allow_redirects=False)
+        probe_loc = ""
+        if 300 <= probe.status_code < 400:
+            probe_loc = probe.headers.get("Location", "")
+        self._log("probe GET login_slogin ->", probe.status_code,
+                  "Location:", probe_loc)
+        authed = 300 <= probe.status_code < 400 and "index_initMenu" in probe_loc
+        if not authed:
+            raise LoginError(
+                "用户名或密码未通过校验（登录后仍停留在登录页）。可能原因："
+                "① 账号密码错误；② 密码加密/接口已变（RSA 未匹配）；"
+                "③ 账号被锁定或触发验证码。"
+            )
+
+        # 5) 以学生身份进入主页（浏览器登录后必经，用于在会话里绑定角色 jsdm=xs）
+        self._request("GET", "/xtgl/index_initMenu.html?jsdm=xs&echarts=1")
+        # 6) 读取当前学年/学期（课表页下拉框选中项）
         self._load_current_term()
 
     def _load_current_term(self) -> None:
@@ -147,17 +177,21 @@ class ZhengfangClient:
             "/kbcx/xskbcx_cxXskbcxIndex.html?gnmkdm=N253508&layout=default",
         )
         text = r.text
-        if "xskbcx_cxXsgrkb" not in text or 'name="xnm"' not in text:
-            # 未登录：会被重定向回登录页
+        self._log("kbcx index len:", len(text),
+                  "has_xnm:", 'name="xnm"' in text,
+                  "has_xqm:", 'name="xqm"' in text)
+        # 未登录时该 URL 会被重定向回登录页（不含学年/学期下拉框）
+        if 'name="xnm"' not in text or 'name="xqm"' not in text:
             raise LoginError(
-                "登录失败：未进入课表页（可能密码错误、账号被锁定、"
-                "或触发验证码）。请到浏览器确认后重试。"
+                "登录已通过但课表页未放行（页面缺少学年/学期下拉框）。"
+                "可能是教务角色初始化步骤有变。"
             )
         xnm = re.search(r'name="xnm"[^>]*>.*?value="(\d+)"[^>]*selected', text, re.S)
         xqm = re.search(r'name="xqm"[^>]*>.*?value="(\d+)"[^>]*selected', text, re.S)
         if not (xnm and xqm):
             raise LoginError("未能从课表页解析当前学年/学期，请手动在配置里指定 term")
         self.xnm, self.xqm = xnm.group(1), xqm.group(1)
+        self._log("当前学期:", self.xnm, self.xqm)
 
     # -- 课表数据 ---------------------------------------------------------
     def fetch_schedule(self, xnm: str, xqm: str) -> dict:

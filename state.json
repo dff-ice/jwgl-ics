@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T14:10:06.867585+00:00",
+ "generated_at": "2026-09-07T14:26:17.328847+00:00",
  "term": {
   "xnm": "2026",
   "xqm": "3",
@@ -7,938 +7,1882 @@
  },
  "semester_start": "2026-09-07",
  "student": {
-  "xh": "202500010001",
-  "xm": "演示学生",
-  "bjmc": "2025001班"
+  "xh": "025301794105",
+  "xm": "党樊樊",
+  "bjmc": "0253017941"
  },
  "events": {
-  "7cf599ca9388be098dbdf0fa05b53dde05f46cab@hbeu.edu.cn": {
-   "uid": "7cf599ca9388be098dbdf0fa05b53dde05f46cab@hbeu.edu.cn",
+  "d51786de1442cfe1b8462c1bd536ef66dded70bc@hbeu.edu.cn": {
+   "uid": "d51786de1442cfe1b8462c1bd536ef66dded70bc@hbeu.edu.cn",
    "date": "2026-09-07",
-   "start": "14:00",
-   "end": "15:40",
-   "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
   },
-  "8ad47b2c539be7d18e7a00652d2dab6133304d2a@hbeu.edu.cn": {
-   "uid": "8ad47b2c539be7d18e7a00652d2dab6133304d2a@hbeu.edu.cn",
+  "b075c07bb9ee9e44b6966771a1310d0e72c2beb2@hbeu.edu.cn": {
+   "uid": "b075c07bb9ee9e44b6966771a1310d0e72c2beb2@hbeu.edu.cn",
    "date": "2026-09-07",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "318669d799afcd453610188ad1fd2fe9fe622d63@hbeu.edu.cn": {
-   "uid": "318669d799afcd453610188ad1fd2fe9fe622d63@hbeu.edu.cn",
+  "5d9f5035b775d8ce3462f935cd677362e5d55373@hbeu.edu.cn": {
+   "uid": "5d9f5035b775d8ce3462f935cd677362e5d55373@hbeu.edu.cn",
+   "date": "2026-09-07",
+   "start": "19:00",
+   "end": "20:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "a323b0bdf29f48283ea6459a2042664c05c4010c@hbeu.edu.cn": {
+   "uid": "a323b0bdf29f48283ea6459a2042664c05c4010c@hbeu.edu.cn",
+   "date": "2026-09-08",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "752f223b93628ca17fe9274efb48edfc26a0ed41@hbeu.edu.cn": {
+   "uid": "752f223b93628ca17fe9274efb48edfc26a0ed41@hbeu.edu.cn",
+   "date": "2026-09-08",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "数据结构与算法",
+   "location": "教1楼306(多媒体)"
+  },
+  "81a56fea7aa149aeac2412b44a735a207f47bc08@hbeu.edu.cn": {
+   "uid": "81a56fea7aa149aeac2412b44a735a207f47bc08@hbeu.edu.cn",
+   "date": "2026-09-09",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "97b9a02f544b243cf66e4e58b3aeb837f2935c70@hbeu.edu.cn": {
+   "uid": "97b9a02f544b243cf66e4e58b3aeb837f2935c70@hbeu.edu.cn",
    "date": "2026-09-09",
    "start": "14:00",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "d2cf57401c864fc2a92d3780de37f4937c0747c3@hbeu.edu.cn": {
-   "uid": "d2cf57401c864fc2a92d3780de37f4937c0747c3@hbeu.edu.cn",
+  "ca3d8982be621b549f97a15bd6718a0b566ae6eb@hbeu.edu.cn": {
+   "uid": "ca3d8982be621b549f97a15bd6718a0b566ae6eb@hbeu.edu.cn",
+   "date": "2026-09-10",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "57634781cb1460a018ac23bee6609de82ba54284@hbeu.edu.cn": {
+   "uid": "57634781cb1460a018ac23bee6609de82ba54284@hbeu.edu.cn",
    "date": "2026-09-10",
    "start": "19:00",
    "end": "20:40",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "40d9a218807d403a5796192fd8a4bca875737809@hbeu.edu.cn": {
-   "uid": "40d9a218807d403a5796192fd8a4bca875737809@hbeu.edu.cn",
+  "412e8a32c8d324bd8e01088b3f7d1cb2a978b925@hbeu.edu.cn": {
+   "uid": "412e8a32c8d324bd8e01088b3f7d1cb2a978b925@hbeu.edu.cn",
    "date": "2026-09-11",
    "start": "08:00",
    "end": "11:50",
-   "summary": "毛泽东思想和中国特色社会主义理论体系概论（示例）",
-   "location": "主楼A406(多媒体)"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "9fc361e84b7f00626459b7f7fd84f731aec37c61@hbeu.edu.cn": {
-   "uid": "9fc361e84b7f00626459b7f7fd84f731aec37c61@hbeu.edu.cn",
-   "date": "2026-09-12",
-   "start": "10:10",
-   "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+  "62a0db09e8cc485994aa67a38d17d94abc4b490f@hbeu.edu.cn": {
+   "uid": "62a0db09e8cc485994aa67a38d17d94abc4b490f@hbeu.edu.cn",
+   "date": "2026-09-14",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
   },
-  "abe73bc4e71db5d1b45e832388885320a94a9b9c@hbeu.edu.cn": {
-   "uid": "abe73bc4e71db5d1b45e832388885320a94a9b9c@hbeu.edu.cn",
+  "1187d0b6549bf38dc63419588d6e0e9c75662bd4@hbeu.edu.cn": {
+   "uid": "1187d0b6549bf38dc63419588d6e0e9c75662bd4@hbeu.edu.cn",
    "date": "2026-09-14",
    "start": "10:10",
    "end": "11:50",
    "summary": "电路基础",
-   "location": "主楼B307(多媒体)"
+   "location": "教1楼307(多媒体)"
   },
-  "d2a1a4816621a2fc1cb577c93dd09bea1ccbc6d2@hbeu.edu.cn": {
-   "uid": "d2a1a4816621a2fc1cb577c93dd09bea1ccbc6d2@hbeu.edu.cn",
-   "date": "2026-09-14",
-   "start": "14:00",
-   "end": "15:40",
-   "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
-  },
-  "6754c829834a07aada648b3529c48495bdab6b45@hbeu.edu.cn": {
-   "uid": "6754c829834a07aada648b3529c48495bdab6b45@hbeu.edu.cn",
+  "26087470defcd1cbba2787dbc4c0122b6ad28143@hbeu.edu.cn": {
+   "uid": "26087470defcd1cbba2787dbc4c0122b6ad28143@hbeu.edu.cn",
    "date": "2026-09-14",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "2bb1710da1ff6c3f3fd63d63d008f8f34d6332cc@hbeu.edu.cn": {
-   "uid": "2bb1710da1ff6c3f3fd63d63d008f8f34d6332cc@hbeu.edu.cn",
+  "c8eaf5e6532c41da2d0d75113b45fffae267e4f0@hbeu.edu.cn": {
+   "uid": "c8eaf5e6532c41da2d0d75113b45fffae267e4f0@hbeu.edu.cn",
+   "date": "2026-09-14",
+   "start": "19:00",
+   "end": "20:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "568d0812e5c9ac92474592d2aa25be51674bc3a8@hbeu.edu.cn": {
+   "uid": "568d0812e5c9ac92474592d2aa25be51674bc3a8@hbeu.edu.cn",
+   "date": "2026-09-15",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "dcdc853ad57eeee785e9570cf8def698c7049a41@hbeu.edu.cn": {
+   "uid": "dcdc853ad57eeee785e9570cf8def698c7049a41@hbeu.edu.cn",
+   "date": "2026-09-15",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "d4521dd8c764e80ae075b77ba9a936f21b8e8941@hbeu.edu.cn": {
+   "uid": "d4521dd8c764e80ae075b77ba9a936f21b8e8941@hbeu.edu.cn",
+   "date": "2026-09-15",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "数据结构与算法",
+   "location": "教1楼306(多媒体)"
+  },
+  "a380bbb1252fa3bd19fba7281d10d18c233f2ef2@hbeu.edu.cn": {
+   "uid": "a380bbb1252fa3bd19fba7281d10d18c233f2ef2@hbeu.edu.cn",
+   "date": "2026-09-16",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "567e9382e9b74182da8d8f4e269872444163b9e5@hbeu.edu.cn": {
+   "uid": "567e9382e9b74182da8d8f4e269872444163b9e5@hbeu.edu.cn",
+   "date": "2026-09-16",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "e3b4d65f3e94353c50cbea76451f036710a37f9c@hbeu.edu.cn": {
+   "uid": "e3b4d65f3e94353c50cbea76451f036710a37f9c@hbeu.edu.cn",
    "date": "2026-09-16",
    "start": "14:00",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "908b7fdac7a93c98af54f1f8e400d2588ae574a0@hbeu.edu.cn": {
-   "uid": "908b7fdac7a93c98af54f1f8e400d2588ae574a0@hbeu.edu.cn",
+  "40c8aa06b8381a5446081d71af7b0084c613facd@hbeu.edu.cn": {
+   "uid": "40c8aa06b8381a5446081d71af7b0084c613facd@hbeu.edu.cn",
+   "date": "2026-09-17",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "9400f90ba155504405624173a2cb545d8d3d817c@hbeu.edu.cn": {
+   "uid": "9400f90ba155504405624173a2cb545d8d3d817c@hbeu.edu.cn",
    "date": "2026-09-18",
    "start": "08:00",
    "end": "11:50",
-   "summary": "毛泽东思想和中国特色社会主义理论体系概论（示例）",
-   "location": "主楼A406(多媒体)"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "ea17b9e1127b37643e5275a652fe8f8d26985f69@hbeu.edu.cn": {
-   "uid": "ea17b9e1127b37643e5275a652fe8f8d26985f69@hbeu.edu.cn",
-   "date": "2026-09-19",
-   "start": "10:10",
-   "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
-  },
-  "77dc4dd1431ba74a03106ae2efd400185955a553@hbeu.edu.cn": {
-   "uid": "77dc4dd1431ba74a03106ae2efd400185955a553@hbeu.edu.cn",
+  "a14647354a5792c6ce4404daef7a0bb9d583bf0a@hbeu.edu.cn": {
+   "uid": "a14647354a5792c6ce4404daef7a0bb9d583bf0a@hbeu.edu.cn",
    "date": "2026-09-21",
-   "start": "14:00",
-   "end": "15:40",
-   "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
   },
-  "cbbd77665a048b04731de5f923fe8dac4a12d51c@hbeu.edu.cn": {
-   "uid": "cbbd77665a048b04731de5f923fe8dac4a12d51c@hbeu.edu.cn",
+  "2c8ec685c5bbb61b66b18c3b774ae74185977072@hbeu.edu.cn": {
+   "uid": "2c8ec685c5bbb61b66b18c3b774ae74185977072@hbeu.edu.cn",
    "date": "2026-09-21",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "291af9d550a26a1ed0fe573a37641f15a6d1493b@hbeu.edu.cn": {
-   "uid": "291af9d550a26a1ed0fe573a37641f15a6d1493b@hbeu.edu.cn",
+  "cd1785eea4a47ec8704a85a999fa997df72a0fff@hbeu.edu.cn": {
+   "uid": "cd1785eea4a47ec8704a85a999fa997df72a0fff@hbeu.edu.cn",
+   "date": "2026-09-21",
+   "start": "19:00",
+   "end": "20:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "fd4edc3b4ff31e7ce739dae1bea3369475e6055d@hbeu.edu.cn": {
+   "uid": "fd4edc3b4ff31e7ce739dae1bea3369475e6055d@hbeu.edu.cn",
+   "date": "2026-09-22",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "计算机组成原理",
+   "location": "教1楼207(多媒体)"
+  },
+  "11c07252caa671f2fbd36d2b0c24a6252e7dc3fa@hbeu.edu.cn": {
+   "uid": "11c07252caa671f2fbd36d2b0c24a6252e7dc3fa@hbeu.edu.cn",
+   "date": "2026-09-22",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "79128437779f7103042ec9a61118d575ec8bbc27@hbeu.edu.cn": {
+   "uid": "79128437779f7103042ec9a61118d575ec8bbc27@hbeu.edu.cn",
+   "date": "2026-09-22",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "数据结构与算法",
+   "location": "教1楼306(多媒体)"
+  },
+  "2c3ebc0a08125afadd9f3a373c31c5826400a9c5@hbeu.edu.cn": {
+   "uid": "2c3ebc0a08125afadd9f3a373c31c5826400a9c5@hbeu.edu.cn",
+   "date": "2026-09-22",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
+  },
+  "31083a4b0c046610c71622cdf81ee8c5a160fe6a@hbeu.edu.cn": {
+   "uid": "31083a4b0c046610c71622cdf81ee8c5a160fe6a@hbeu.edu.cn",
+   "date": "2026-09-23",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "ca771036768b2de9cdcb2b151936ee1181370a44@hbeu.edu.cn": {
+   "uid": "ca771036768b2de9cdcb2b151936ee1181370a44@hbeu.edu.cn",
+   "date": "2026-09-23",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "6e82dc906896bb07207d68f2c4375b3a7ba2dcb8@hbeu.edu.cn": {
+   "uid": "6e82dc906896bb07207d68f2c4375b3a7ba2dcb8@hbeu.edu.cn",
    "date": "2026-09-23",
    "start": "14:00",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "422698f3fa7ab5c5fba62a1a6ab27ff9c6267481@hbeu.edu.cn": {
-   "uid": "422698f3fa7ab5c5fba62a1a6ab27ff9c6267481@hbeu.edu.cn",
+  "211d2bdda4ffc16aee9dff7c9f6e272d96abc0f6@hbeu.edu.cn": {
+   "uid": "211d2bdda4ffc16aee9dff7c9f6e272d96abc0f6@hbeu.edu.cn",
+   "date": "2026-09-24",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "037d874b831f13d136458676aeb4741dbc8eb7fc@hbeu.edu.cn": {
+   "uid": "037d874b831f13d136458676aeb4741dbc8eb7fc@hbeu.edu.cn",
    "date": "2026-09-24",
    "start": "19:00",
    "end": "20:40",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "eb2eace586cf85d24012c3a371b7d782752f19e1@hbeu.edu.cn": {
-   "uid": "eb2eace586cf85d24012c3a371b7d782752f19e1@hbeu.edu.cn",
+  "56e3564032221850b35ffd6324eb959ed615cd34@hbeu.edu.cn": {
+   "uid": "56e3564032221850b35ffd6324eb959ed615cd34@hbeu.edu.cn",
    "date": "2026-09-25",
    "start": "08:00",
    "end": "11:50",
-   "summary": "毛泽东思想和中国特色社会主义理论体系概论（示例）",
-   "location": "主楼A406(多媒体)"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "a0a35e563c970e78de3fa0c30b030da24d2c0e84@hbeu.edu.cn": {
-   "uid": "a0a35e563c970e78de3fa0c30b030da24d2c0e84@hbeu.edu.cn",
-   "date": "2026-09-26",
-   "start": "10:10",
-   "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+  "f2ca82537aae3a09e0d58b4717eafcd938444f55@hbeu.edu.cn": {
+   "uid": "f2ca82537aae3a09e0d58b4717eafcd938444f55@hbeu.edu.cn",
+   "date": "2026-09-28",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
   },
-  "d27bd5f26bca33c5dec133620781611868d722b8@hbeu.edu.cn": {
-   "uid": "d27bd5f26bca33c5dec133620781611868d722b8@hbeu.edu.cn",
+  "a7179dfb9bdb2076135d607591de1305137fda73@hbeu.edu.cn": {
+   "uid": "a7179dfb9bdb2076135d607591de1305137fda73@hbeu.edu.cn",
    "date": "2026-09-28",
    "start": "10:10",
    "end": "11:50",
    "summary": "电路基础",
-   "location": "主楼B307(多媒体)"
+   "location": "教1楼307(多媒体)"
   },
-  "cb26deb8507465f586d2369e88e1f535a8d133ec@hbeu.edu.cn": {
-   "uid": "cb26deb8507465f586d2369e88e1f535a8d133ec@hbeu.edu.cn",
-   "date": "2026-09-28",
-   "start": "14:00",
-   "end": "15:40",
-   "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
-  },
-  "e7981c6519475a6b74a4c46469fbcee3800fbcb2@hbeu.edu.cn": {
-   "uid": "e7981c6519475a6b74a4c46469fbcee3800fbcb2@hbeu.edu.cn",
+  "1d0d329c7bd96e09af65ce263f6be7b45583f30d@hbeu.edu.cn": {
+   "uid": "1d0d329c7bd96e09af65ce263f6be7b45583f30d@hbeu.edu.cn",
    "date": "2026-09-28",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "7690d6e224018c0d7b11b83b01c1b16d2e780f2b@hbeu.edu.cn": {
-   "uid": "7690d6e224018c0d7b11b83b01c1b16d2e780f2b@hbeu.edu.cn",
+  "66ab3b5677fa5cbc5440c454a9e5406f937bc6f7@hbeu.edu.cn": {
+   "uid": "66ab3b5677fa5cbc5440c454a9e5406f937bc6f7@hbeu.edu.cn",
+   "date": "2026-09-28",
+   "start": "19:00",
+   "end": "20:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "fd5616e8411f145868ada7923c9b66d5db6b0a89@hbeu.edu.cn": {
+   "uid": "fd5616e8411f145868ada7923c9b66d5db6b0a89@hbeu.edu.cn",
+   "date": "2026-09-29",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "5868c97153b3356db65b1a00cefec97e9fe2eeee@hbeu.edu.cn": {
+   "uid": "5868c97153b3356db65b1a00cefec97e9fe2eeee@hbeu.edu.cn",
+   "date": "2026-09-29",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "41d41044aeda5bcb6593fe27bed053c4b6e59cc6@hbeu.edu.cn": {
+   "uid": "41d41044aeda5bcb6593fe27bed053c4b6e59cc6@hbeu.edu.cn",
+   "date": "2026-09-29",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "数据结构与算法",
+   "location": "教1楼306(多媒体)"
+  },
+  "198648c13ecc443db208960a3f3c4cb474734cef@hbeu.edu.cn": {
+   "uid": "198648c13ecc443db208960a3f3c4cb474734cef@hbeu.edu.cn",
+   "date": "2026-09-29",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
+  },
+  "1ce4c160d37b5ae826073531d405ed6a29eaaf7f@hbeu.edu.cn": {
+   "uid": "1ce4c160d37b5ae826073531d405ed6a29eaaf7f@hbeu.edu.cn",
+   "date": "2026-09-30",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "70ea0a2ab5586562f9745808c874a3b3f9b8c3b5@hbeu.edu.cn": {
+   "uid": "70ea0a2ab5586562f9745808c874a3b3f9b8c3b5@hbeu.edu.cn",
+   "date": "2026-09-30",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "8870eb1ea96c448002fd692a89ee8b93f8debd67@hbeu.edu.cn": {
+   "uid": "8870eb1ea96c448002fd692a89ee8b93f8debd67@hbeu.edu.cn",
    "date": "2026-09-30",
    "start": "14:00",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "944301dbc3ebf23ec03280096a14588408f76055@hbeu.edu.cn": {
-   "uid": "944301dbc3ebf23ec03280096a14588408f76055@hbeu.edu.cn",
+  "87f7816c4eabf971366b4b4f1bfce65d4ab808bc@hbeu.edu.cn": {
+   "uid": "87f7816c4eabf971366b4b4f1bfce65d4ab808bc@hbeu.edu.cn",
+   "date": "2026-10-01",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "19f9e47d8b4727ba8ba4fa95b76255e206e356db@hbeu.edu.cn": {
+   "uid": "19f9e47d8b4727ba8ba4fa95b76255e206e356db@hbeu.edu.cn",
    "date": "2026-10-02",
    "start": "08:00",
    "end": "11:50",
-   "summary": "毛泽东思想和中国特色社会主义理论体系概论（示例）",
-   "location": "主楼A406(多媒体)"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "ea824820c6d12135af55fb266c95b9555cf94573@hbeu.edu.cn": {
-   "uid": "ea824820c6d12135af55fb266c95b9555cf94573@hbeu.edu.cn",
-   "date": "2026-10-03",
-   "start": "10:10",
-   "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
-  },
-  "621ae80f7d80213fcd72602e4c968f1ec66bb155@hbeu.edu.cn": {
-   "uid": "621ae80f7d80213fcd72602e4c968f1ec66bb155@hbeu.edu.cn",
+  "087bbc50eb3c9a877e24001c190af73d290669f0@hbeu.edu.cn": {
+   "uid": "087bbc50eb3c9a877e24001c190af73d290669f0@hbeu.edu.cn",
    "date": "2026-10-05",
-   "start": "14:00",
-   "end": "15:40",
-   "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
   },
-  "49cf40266edc1c9aa732622358fef62484efb95a@hbeu.edu.cn": {
-   "uid": "49cf40266edc1c9aa732622358fef62484efb95a@hbeu.edu.cn",
+  "7ebce19f8b9d780de06f4b6708e069a11786d3e1@hbeu.edu.cn": {
+   "uid": "7ebce19f8b9d780de06f4b6708e069a11786d3e1@hbeu.edu.cn",
    "date": "2026-10-05",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "97d9862f03ebd623c20c6f3873e9fc885f3b2937@hbeu.edu.cn": {
-   "uid": "97d9862f03ebd623c20c6f3873e9fc885f3b2937@hbeu.edu.cn",
+  "bb23cf3acd318c335a2bdc8cd6a91b8a31dca8a0@hbeu.edu.cn": {
+   "uid": "bb23cf3acd318c335a2bdc8cd6a91b8a31dca8a0@hbeu.edu.cn",
+   "date": "2026-10-05",
+   "start": "19:00",
+   "end": "20:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "83b0b6d33d185e87c4d6b4bfef5fcf7ff52d33f4@hbeu.edu.cn": {
+   "uid": "83b0b6d33d185e87c4d6b4bfef5fcf7ff52d33f4@hbeu.edu.cn",
+   "date": "2026-10-06",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "计算机组成原理",
+   "location": "教1楼207(多媒体)"
+  },
+  "6f977c7de50577c98d38add139b30371030058b7@hbeu.edu.cn": {
+   "uid": "6f977c7de50577c98d38add139b30371030058b7@hbeu.edu.cn",
+   "date": "2026-10-06",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "eb9d603443a81741abca7aa3fc6e4dc28f4aa718@hbeu.edu.cn": {
+   "uid": "eb9d603443a81741abca7aa3fc6e4dc28f4aa718@hbeu.edu.cn",
+   "date": "2026-10-06",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "数据结构与算法",
+   "location": "教1楼306(多媒体)"
+  },
+  "b93ee17ccf4eb721409fef9d1e8c86d78e222202@hbeu.edu.cn": {
+   "uid": "b93ee17ccf4eb721409fef9d1e8c86d78e222202@hbeu.edu.cn",
+   "date": "2026-10-06",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
+  },
+  "51120ad715f0aabc2ae3ea3dcf23ceec2498340f@hbeu.edu.cn": {
+   "uid": "51120ad715f0aabc2ae3ea3dcf23ceec2498340f@hbeu.edu.cn",
+   "date": "2026-10-07",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "94effd2663bacdcd2fbdb0d81424f8c4f2dded4f@hbeu.edu.cn": {
+   "uid": "94effd2663bacdcd2fbdb0d81424f8c4f2dded4f@hbeu.edu.cn",
+   "date": "2026-10-07",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "2984dc312aff950f00322fe03126389b0e3c5103@hbeu.edu.cn": {
+   "uid": "2984dc312aff950f00322fe03126389b0e3c5103@hbeu.edu.cn",
    "date": "2026-10-07",
    "start": "14:00",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "7e229a0a2e03b3f4af7beedadf8f0a6872e3c176@hbeu.edu.cn": {
-   "uid": "7e229a0a2e03b3f4af7beedadf8f0a6872e3c176@hbeu.edu.cn",
+  "cd849fd9e55baf30e685e52922d06d008e01dbb9@hbeu.edu.cn": {
+   "uid": "cd849fd9e55baf30e685e52922d06d008e01dbb9@hbeu.edu.cn",
+   "date": "2026-10-08",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "85fd1a4ff30b0d8bc20b4a0530beacece3a2fbb4@hbeu.edu.cn": {
+   "uid": "85fd1a4ff30b0d8bc20b4a0530beacece3a2fbb4@hbeu.edu.cn",
    "date": "2026-10-08",
    "start": "10:10",
    "end": "11:50",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "c0b67b7aa7e0174f17dcce64058c6648d9eaad64@hbeu.edu.cn": {
-   "uid": "c0b67b7aa7e0174f17dcce64058c6648d9eaad64@hbeu.edu.cn",
+  "13f08a0a2d70b1e360cf848dbb7a5b4f2a8b99c6@hbeu.edu.cn": {
+   "uid": "13f08a0a2d70b1e360cf848dbb7a5b4f2a8b99c6@hbeu.edu.cn",
    "date": "2026-10-08",
    "start": "19:00",
    "end": "20:40",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "7a423e303d1074856449a142222077f2871aaaa3@hbeu.edu.cn": {
-   "uid": "7a423e303d1074856449a142222077f2871aaaa3@hbeu.edu.cn",
-   "date": "2026-10-10",
-   "start": "10:10",
+  "6618994b1768be3ad186a6e28953aca02b8c942b@hbeu.edu.cn": {
+   "uid": "6618994b1768be3ad186a6e28953aca02b8c942b@hbeu.edu.cn",
+   "date": "2026-10-09",
+   "start": "08:00",
    "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "7aabb40bc714271c55284eca9f63b18ba331f9d4@hbeu.edu.cn": {
-   "uid": "7aabb40bc714271c55284eca9f63b18ba331f9d4@hbeu.edu.cn",
+  "319ed1924764c2722c23a116ee59a2eb7cf3d101@hbeu.edu.cn": {
+   "uid": "319ed1924764c2722c23a116ee59a2eb7cf3d101@hbeu.edu.cn",
+   "date": "2026-10-12",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
+  },
+  "85fbc4794ed48bc18130614ce8feb9f425c3d00a@hbeu.edu.cn": {
+   "uid": "85fbc4794ed48bc18130614ce8feb9f425c3d00a@hbeu.edu.cn",
    "date": "2026-10-12",
    "start": "10:10",
    "end": "11:50",
    "summary": "电路基础",
-   "location": "实验楼基础实验室一(JS-104)"
+   "location": "计科楼基础实验室一(JS-104)"
   },
-  "30276655ce48d978e91ddb038a5f32ed9ca671eb@hbeu.edu.cn": {
-   "uid": "30276655ce48d978e91ddb038a5f32ed9ca671eb@hbeu.edu.cn",
-   "date": "2026-10-12",
-   "start": "14:00",
-   "end": "15:40",
-   "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
-  },
-  "78cbc23c0a69f5a724a877ed2f867f7fe094e46d@hbeu.edu.cn": {
-   "uid": "78cbc23c0a69f5a724a877ed2f867f7fe094e46d@hbeu.edu.cn",
+  "438396ee90e7c14f88de3be24f8a9cc32e62ffe1@hbeu.edu.cn": {
+   "uid": "438396ee90e7c14f88de3be24f8a9cc32e62ffe1@hbeu.edu.cn",
    "date": "2026-10-12",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "28854d2cac3b29ac87b8668dbdb7962e1c2d8e70@hbeu.edu.cn": {
-   "uid": "28854d2cac3b29ac87b8668dbdb7962e1c2d8e70@hbeu.edu.cn",
+  "ae2bf0c9c46361c995779359e8add3a2984c74cc@hbeu.edu.cn": {
+   "uid": "ae2bf0c9c46361c995779359e8add3a2984c74cc@hbeu.edu.cn",
+   "date": "2026-10-12",
+   "start": "19:00",
+   "end": "20:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "a8110ef2d6209813ce37b8963ac770677842d8b5@hbeu.edu.cn": {
+   "uid": "a8110ef2d6209813ce37b8963ac770677842d8b5@hbeu.edu.cn",
+   "date": "2026-10-13",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "0662e13305656f5de9830b3729cdf8c52966804b@hbeu.edu.cn": {
+   "uid": "0662e13305656f5de9830b3729cdf8c52966804b@hbeu.edu.cn",
+   "date": "2026-10-13",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "a848330a9a2879848cc4e33ded1d1bb6c2752197@hbeu.edu.cn": {
+   "uid": "a848330a9a2879848cc4e33ded1d1bb6c2752197@hbeu.edu.cn",
+   "date": "2026-10-13",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "数据结构与算法",
+   "location": "教1楼306(多媒体)"
+  },
+  "6201b8b17dab08a1ac9a18a9819285d8136c8292@hbeu.edu.cn": {
+   "uid": "6201b8b17dab08a1ac9a18a9819285d8136c8292@hbeu.edu.cn",
+   "date": "2026-10-13",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
+  },
+  "cbc33ba3e8415a49a62dc765f4be74f0c3fd2503@hbeu.edu.cn": {
+   "uid": "cbc33ba3e8415a49a62dc765f4be74f0c3fd2503@hbeu.edu.cn",
+   "date": "2026-10-14",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "09d13cda3ebe48ed3b86d0a6572a0c751984e673@hbeu.edu.cn": {
+   "uid": "09d13cda3ebe48ed3b86d0a6572a0c751984e673@hbeu.edu.cn",
+   "date": "2026-10-14",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "c303c04a0308c833cf7097f9b9e4f1a43da5fb26@hbeu.edu.cn": {
+   "uid": "c303c04a0308c833cf7097f9b9e4f1a43da5fb26@hbeu.edu.cn",
    "date": "2026-10-14",
    "start": "14:00",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "e8b65bad9bb8dc7331154ecb96e14f2b4a0d681c@hbeu.edu.cn": {
-   "uid": "e8b65bad9bb8dc7331154ecb96e14f2b4a0d681c@hbeu.edu.cn",
+  "44abb6115d4ad8f6362bf11c1414a144e7d54809@hbeu.edu.cn": {
+   "uid": "44abb6115d4ad8f6362bf11c1414a144e7d54809@hbeu.edu.cn",
+   "date": "2026-10-15",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "d03aa9d8166abe89b7d572ec776d31fe9c0b1dc9@hbeu.edu.cn": {
+   "uid": "d03aa9d8166abe89b7d572ec776d31fe9c0b1dc9@hbeu.edu.cn",
    "date": "2026-10-15",
    "start": "10:10",
    "end": "11:50",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "19e0a3ac64b5f2325486366d903ebcca66f59148@hbeu.edu.cn": {
-   "uid": "19e0a3ac64b5f2325486366d903ebcca66f59148@hbeu.edu.cn",
-   "date": "2026-10-17",
-   "start": "10:10",
+  "fa0b166725f62082b9dbbfa02038dba9d9a0c703@hbeu.edu.cn": {
+   "uid": "fa0b166725f62082b9dbbfa02038dba9d9a0c703@hbeu.edu.cn",
+   "date": "2026-10-16",
+   "start": "08:00",
    "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "9c02e0456f2c2621fa901f45ea3a0f4294077904@hbeu.edu.cn": {
-   "uid": "9c02e0456f2c2621fa901f45ea3a0f4294077904@hbeu.edu.cn",
+  "fe6a31b2ba38ef6451a2abfa5cae95c62291d5c2@hbeu.edu.cn": {
+   "uid": "fe6a31b2ba38ef6451a2abfa5cae95c62291d5c2@hbeu.edu.cn",
    "date": "2026-10-19",
-   "start": "14:00",
-   "end": "15:40",
-   "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
   },
-  "7331473df9d15ce92a1d1381cc81bc475740d1c3@hbeu.edu.cn": {
-   "uid": "7331473df9d15ce92a1d1381cc81bc475740d1c3@hbeu.edu.cn",
+  "e753a4af443e8c8d0ab3315ecdcff1f34f8f3374@hbeu.edu.cn": {
+   "uid": "e753a4af443e8c8d0ab3315ecdcff1f34f8f3374@hbeu.edu.cn",
    "date": "2026-10-19",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "f35f98fe5badad5b9f921efe05f770232170beac@hbeu.edu.cn": {
-   "uid": "f35f98fe5badad5b9f921efe05f770232170beac@hbeu.edu.cn",
+  "27fef1564d5fab699d1e173fc92d3a7074697e89@hbeu.edu.cn": {
+   "uid": "27fef1564d5fab699d1e173fc92d3a7074697e89@hbeu.edu.cn",
+   "date": "2026-10-19",
+   "start": "19:00",
+   "end": "20:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "2dbba59640b3cf1fbc65a6b387d23bc5005bcf07@hbeu.edu.cn": {
+   "uid": "2dbba59640b3cf1fbc65a6b387d23bc5005bcf07@hbeu.edu.cn",
+   "date": "2026-10-20",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "计算机组成原理",
+   "location": "计科楼自动控制实验室(JS-302)"
+  },
+  "42c5f04803b20912f38703be77a7af870a564ff1@hbeu.edu.cn": {
+   "uid": "42c5f04803b20912f38703be77a7af870a564ff1@hbeu.edu.cn",
+   "date": "2026-10-20",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "fa6edf3b28d2d17254a14d889a798a79958ffed5@hbeu.edu.cn": {
+   "uid": "fa6edf3b28d2d17254a14d889a798a79958ffed5@hbeu.edu.cn",
+   "date": "2026-10-20",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "数据结构与算法",
+   "location": "教1楼306(多媒体)"
+  },
+  "044282f83d96db05aeb2df9b47794c14b8a3b470@hbeu.edu.cn": {
+   "uid": "044282f83d96db05aeb2df9b47794c14b8a3b470@hbeu.edu.cn",
+   "date": "2026-10-20",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
+  },
+  "8328fd77ae90b9cc088a5bb1955bdbaa50d02d89@hbeu.edu.cn": {
+   "uid": "8328fd77ae90b9cc088a5bb1955bdbaa50d02d89@hbeu.edu.cn",
+   "date": "2026-10-21",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "8c996d557c362dec4f4352754cfa9b0041e75b15@hbeu.edu.cn": {
+   "uid": "8c996d557c362dec4f4352754cfa9b0041e75b15@hbeu.edu.cn",
+   "date": "2026-10-21",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "e937c37cff5741157d7f67a9dfd328fa6a6874a5@hbeu.edu.cn": {
+   "uid": "e937c37cff5741157d7f67a9dfd328fa6a6874a5@hbeu.edu.cn",
    "date": "2026-10-21",
    "start": "14:00",
    "end": "15:40",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "14a9354878fffee8e3d3d63e9fce09cc0c03bfad@hbeu.edu.cn": {
-   "uid": "14a9354878fffee8e3d3d63e9fce09cc0c03bfad@hbeu.edu.cn",
+  "91731689f86a6e154cec251117a3c986309f5e71@hbeu.edu.cn": {
+   "uid": "91731689f86a6e154cec251117a3c986309f5e71@hbeu.edu.cn",
    "date": "2026-10-21",
    "start": "16:10",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "实验楼软件工程实验室(JS-203)"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "938d83ae9261142944ae73938884c1d937481fcb@hbeu.edu.cn": {
-   "uid": "938d83ae9261142944ae73938884c1d937481fcb@hbeu.edu.cn",
+  "473b296d307e2f9cc32ca3a0af77c43ddc9568bd@hbeu.edu.cn": {
+   "uid": "473b296d307e2f9cc32ca3a0af77c43ddc9568bd@hbeu.edu.cn",
+   "date": "2026-10-22",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "0c35e7dc0b90c35007fa377581fe5e824cd527cf@hbeu.edu.cn": {
+   "uid": "0c35e7dc0b90c35007fa377581fe5e824cd527cf@hbeu.edu.cn",
    "date": "2026-10-22",
    "start": "10:10",
    "end": "11:50",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "f1f0070a784a2561028d70f8bd877f2c653bf428@hbeu.edu.cn": {
-   "uid": "f1f0070a784a2561028d70f8bd877f2c653bf428@hbeu.edu.cn",
+  "49b1a5453101127308c7afab37f18b54b24f0b60@hbeu.edu.cn": {
+   "uid": "49b1a5453101127308c7afab37f18b54b24f0b60@hbeu.edu.cn",
    "date": "2026-10-22",
    "start": "19:00",
    "end": "20:40",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "559ac78183feddb65eb93d5ea53286df180dbcdb@hbeu.edu.cn": {
-   "uid": "559ac78183feddb65eb93d5ea53286df180dbcdb@hbeu.edu.cn",
-   "date": "2026-10-24",
-   "start": "10:10",
+  "c889340caca30f30c4f308b7bba122fbda9f093b@hbeu.edu.cn": {
+   "uid": "c889340caca30f30c4f308b7bba122fbda9f093b@hbeu.edu.cn",
+   "date": "2026-10-23",
+   "start": "08:00",
    "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "497637e0eff70eb6a80791a59862e3f3d274d9de@hbeu.edu.cn": {
-   "uid": "497637e0eff70eb6a80791a59862e3f3d274d9de@hbeu.edu.cn",
+  "d2da90a7c3392dd0800408140e5615a833f3f5ca@hbeu.edu.cn": {
+   "uid": "d2da90a7c3392dd0800408140e5615a833f3f5ca@hbeu.edu.cn",
+   "date": "2026-10-26",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
+  },
+  "c1431f204fb874ae364abad20c14e1f1d9698060@hbeu.edu.cn": {
+   "uid": "c1431f204fb874ae364abad20c14e1f1d9698060@hbeu.edu.cn",
    "date": "2026-10-26",
    "start": "10:10",
    "end": "11:50",
    "summary": "电路基础",
-   "location": "实验楼基础实验室一(JS-104)"
+   "location": "计科楼基础实验室一(JS-104)"
   },
-  "be6525aaaf1fb9c6dabcbdd8590ba5f593388fdb@hbeu.edu.cn": {
-   "uid": "be6525aaaf1fb9c6dabcbdd8590ba5f593388fdb@hbeu.edu.cn",
+  "ba03363413da7cefcaf15b19116bd01ed5f5c549@hbeu.edu.cn": {
+   "uid": "ba03363413da7cefcaf15b19116bd01ed5f5c549@hbeu.edu.cn",
    "date": "2026-10-26",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "电路基础",
+   "location": "教1楼206(多媒体)"
+  },
+  "59ee83074b1bf699e384775eebca79ccdab108e9@hbeu.edu.cn": {
+   "uid": "59ee83074b1bf699e384775eebca79ccdab108e9@hbeu.edu.cn",
+   "date": "2026-10-26",
+   "start": "19:00",
+   "end": "20:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "e707602dae6e21ff3ed8b2d66cb347db36850f79@hbeu.edu.cn": {
+   "uid": "e707602dae6e21ff3ed8b2d66cb347db36850f79@hbeu.edu.cn",
+   "date": "2026-10-27",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "10eaa363e6ed14112c3d1f440f4b8bcfc5e605a2@hbeu.edu.cn": {
+   "uid": "10eaa363e6ed14112c3d1f440f4b8bcfc5e605a2@hbeu.edu.cn",
+   "date": "2026-10-27",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "fce7d8aba40fd680f1c4f6ce891188aac972e4bb@hbeu.edu.cn": {
+   "uid": "fce7d8aba40fd680f1c4f6ce891188aac972e4bb@hbeu.edu.cn",
+   "date": "2026-10-27",
    "start": "14:00",
    "end": "15:40",
    "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
+   "location": "教1楼306(多媒体)"
   },
-  "e4ef1b4b9f76025e3be5137bd731bc8bfc2f3524@hbeu.edu.cn": {
-   "uid": "e4ef1b4b9f76025e3be5137bd731bc8bfc2f3524@hbeu.edu.cn",
-   "date": "2026-10-26",
+  "375b73d12928a248c143a715fd6f84052bdb5ca1@hbeu.edu.cn": {
+   "uid": "375b73d12928a248c143a715fd6f84052bdb5ca1@hbeu.edu.cn",
+   "date": "2026-10-27",
    "start": "16:10",
    "end": "17:50",
-   "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
   },
-  "7003754da59ffd901197aa99536aef426eb364ca@hbeu.edu.cn": {
-   "uid": "7003754da59ffd901197aa99536aef426eb364ca@hbeu.edu.cn",
+  "c3eb0815d3862c8963cf1e72cd2363ca73be972a@hbeu.edu.cn": {
+   "uid": "c3eb0815d3862c8963cf1e72cd2363ca73be972a@hbeu.edu.cn",
+   "date": "2026-10-28",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "6712e43a2e4c6ae026de84b367d0e8b3f69b7f38@hbeu.edu.cn": {
+   "uid": "6712e43a2e4c6ae026de84b367d0e8b3f69b7f38@hbeu.edu.cn",
+   "date": "2026-10-28",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "5a655b5abb1e15308b10aea9dc28bc0b5130db74@hbeu.edu.cn": {
+   "uid": "5a655b5abb1e15308b10aea9dc28bc0b5130db74@hbeu.edu.cn",
    "date": "2026-10-28",
    "start": "14:00",
    "end": "15:40",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "403f20536e40c96629e9130c8f03b7a9944cc1dc@hbeu.edu.cn": {
-   "uid": "403f20536e40c96629e9130c8f03b7a9944cc1dc@hbeu.edu.cn",
+  "bf6a570f57cbeee95df8c637df86b86a2e0355d2@hbeu.edu.cn": {
+   "uid": "bf6a570f57cbeee95df8c637df86b86a2e0355d2@hbeu.edu.cn",
    "date": "2026-10-28",
    "start": "16:10",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "实验楼软件工程实验室(JS-203)"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "d8e757c957fd7b9ab7f48b602b3dabb0b95c42d2@hbeu.edu.cn": {
-   "uid": "d8e757c957fd7b9ab7f48b602b3dabb0b95c42d2@hbeu.edu.cn",
+  "082de4289042b09089650ff29cf879370a3dbecf@hbeu.edu.cn": {
+   "uid": "082de4289042b09089650ff29cf879370a3dbecf@hbeu.edu.cn",
+   "date": "2026-10-29",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "b8fb6dcba9b2fce0418f316f4ce4f0e202f11004@hbeu.edu.cn": {
+   "uid": "b8fb6dcba9b2fce0418f316f4ce4f0e202f11004@hbeu.edu.cn",
    "date": "2026-10-29",
    "start": "10:10",
    "end": "11:50",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "98a0977f614625095149286567f8032dbb146e4d@hbeu.edu.cn": {
-   "uid": "98a0977f614625095149286567f8032dbb146e4d@hbeu.edu.cn",
-   "date": "2026-10-31",
-   "start": "10:10",
+  "02e07949f20f21752502ed9311ed294168f03d3d@hbeu.edu.cn": {
+   "uid": "02e07949f20f21752502ed9311ed294168f03d3d@hbeu.edu.cn",
+   "date": "2026-10-30",
+   "start": "08:00",
    "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "24ac284636b31b2bafc031fd0d0c269456570c1e@hbeu.edu.cn": {
-   "uid": "24ac284636b31b2bafc031fd0d0c269456570c1e@hbeu.edu.cn",
+  "6801270a1ad007569b626392c3e095fa113a3cfc@hbeu.edu.cn": {
+   "uid": "6801270a1ad007569b626392c3e095fa113a3cfc@hbeu.edu.cn",
    "date": "2026-11-02",
-   "start": "14:00",
-   "end": "15:40",
-   "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
   },
-  "8fd88f8f9c2a1d36570cb7cc43b3c4395e48cd6e@hbeu.edu.cn": {
-   "uid": "8fd88f8f9c2a1d36570cb7cc43b3c4395e48cd6e@hbeu.edu.cn",
+  "ab9778f49a2ba0eb754f7b8b4ddd2abba7d7598b@hbeu.edu.cn": {
+   "uid": "ab9778f49a2ba0eb754f7b8b4ddd2abba7d7598b@hbeu.edu.cn",
    "date": "2026-11-02",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "e6388311ce9f0f5581b416c94029b07d82cc3b1a@hbeu.edu.cn": {
-   "uid": "e6388311ce9f0f5581b416c94029b07d82cc3b1a@hbeu.edu.cn",
+  "13ea164e4bd90411269f97c5c38035718fdbee6c@hbeu.edu.cn": {
+   "uid": "13ea164e4bd90411269f97c5c38035718fdbee6c@hbeu.edu.cn",
+   "date": "2026-11-03",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "计算机组成原理",
+   "location": "计科楼自动控制实验室(JS-302)"
+  },
+  "8c9983b4b8b64eb19d7a115e02b80cecb7bff3fe@hbeu.edu.cn": {
+   "uid": "8c9983b4b8b64eb19d7a115e02b80cecb7bff3fe@hbeu.edu.cn",
+   "date": "2026-11-03",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "12ef40f50b9a86ae10a1ca49b9629ecfffb791a8@hbeu.edu.cn": {
+   "uid": "12ef40f50b9a86ae10a1ca49b9629ecfffb791a8@hbeu.edu.cn",
+   "date": "2026-11-03",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "数据结构与算法",
+   "location": "教1楼306(多媒体)"
+  },
+  "3bb1a08c6d1f20a1bbb2c1b90159d76ef98cbdb5@hbeu.edu.cn": {
+   "uid": "3bb1a08c6d1f20a1bbb2c1b90159d76ef98cbdb5@hbeu.edu.cn",
+   "date": "2026-11-03",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
+  },
+  "502c3520e3eae150f2ed855f6b0cfacad15faf47@hbeu.edu.cn": {
+   "uid": "502c3520e3eae150f2ed855f6b0cfacad15faf47@hbeu.edu.cn",
+   "date": "2026-11-04",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "fca8e8fda5bb2969f84febc5c748d99bb797373c@hbeu.edu.cn": {
+   "uid": "fca8e8fda5bb2969f84febc5c748d99bb797373c@hbeu.edu.cn",
+   "date": "2026-11-04",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "4e2e9194b1209e6c8cfbaea8c8e0333bf467603b@hbeu.edu.cn": {
+   "uid": "4e2e9194b1209e6c8cfbaea8c8e0333bf467603b@hbeu.edu.cn",
    "date": "2026-11-04",
    "start": "14:00",
    "end": "15:40",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "f6e8d7ef117afd4a152e5ddeca20aa01582cbdeb@hbeu.edu.cn": {
-   "uid": "f6e8d7ef117afd4a152e5ddeca20aa01582cbdeb@hbeu.edu.cn",
+  "483cf90a8084effb89b874af1efa83c65aa7eab9@hbeu.edu.cn": {
+   "uid": "483cf90a8084effb89b874af1efa83c65aa7eab9@hbeu.edu.cn",
    "date": "2026-11-04",
    "start": "16:10",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "实验楼软件工程实验室(JS-203)"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "7433e821e918d4e26f9ee87a4b11d7bae9dbb88a@hbeu.edu.cn": {
-   "uid": "7433e821e918d4e26f9ee87a4b11d7bae9dbb88a@hbeu.edu.cn",
+  "85bb7e8a62d2f1b7c8b9fe4400267654a64e8f6b@hbeu.edu.cn": {
+   "uid": "85bb7e8a62d2f1b7c8b9fe4400267654a64e8f6b@hbeu.edu.cn",
+   "date": "2026-11-05",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "d9f8a979a4fd29b38f7d0b8f9ed13518b3d7a270@hbeu.edu.cn": {
+   "uid": "d9f8a979a4fd29b38f7d0b8f9ed13518b3d7a270@hbeu.edu.cn",
    "date": "2026-11-05",
    "start": "10:10",
    "end": "11:50",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "4d32960bc80942be8bc487786f83daeaf5f900ab@hbeu.edu.cn": {
-   "uid": "4d32960bc80942be8bc487786f83daeaf5f900ab@hbeu.edu.cn",
+  "e382943a40ff89fbeaf079c1cea26b8aa4bf0e48@hbeu.edu.cn": {
+   "uid": "e382943a40ff89fbeaf079c1cea26b8aa4bf0e48@hbeu.edu.cn",
    "date": "2026-11-05",
    "start": "19:00",
    "end": "20:40",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "09e97604bbb7d12ad8f58f703bb8fba5d8f3f66a@hbeu.edu.cn": {
-   "uid": "09e97604bbb7d12ad8f58f703bb8fba5d8f3f66a@hbeu.edu.cn",
-   "date": "2026-11-07",
-   "start": "10:10",
+  "7e45ccb60b26b7c6e26121ad1d0bca374fd4a5b2@hbeu.edu.cn": {
+   "uid": "7e45ccb60b26b7c6e26121ad1d0bca374fd4a5b2@hbeu.edu.cn",
+   "date": "2026-11-06",
+   "start": "08:00",
    "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "562d395579d5e8d84f4335ee5d06f1159c711b46@hbeu.edu.cn": {
-   "uid": "562d395579d5e8d84f4335ee5d06f1159c711b46@hbeu.edu.cn",
+  "b8dac8c2ec4c59d74d28af888dafcacadfb07f20@hbeu.edu.cn": {
+   "uid": "b8dac8c2ec4c59d74d28af888dafcacadfb07f20@hbeu.edu.cn",
+   "date": "2026-11-09",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
+  },
+  "00b9ec02aaa2064559ab903959a976454a03ca3e@hbeu.edu.cn": {
+   "uid": "00b9ec02aaa2064559ab903959a976454a03ca3e@hbeu.edu.cn",
    "date": "2026-11-09",
    "start": "10:10",
    "end": "11:50",
    "summary": "电路基础",
-   "location": "实验楼基础实验室一(JS-104)"
+   "location": "计科楼基础实验室一(JS-104)"
   },
-  "adc488c32cd5d6e8312c0500ff2f7c418e4b472c@hbeu.edu.cn": {
-   "uid": "adc488c32cd5d6e8312c0500ff2f7c418e4b472c@hbeu.edu.cn",
+  "3df0880fdc760727425174dcc16ef8c52e78a7b0@hbeu.edu.cn": {
+   "uid": "3df0880fdc760727425174dcc16ef8c52e78a7b0@hbeu.edu.cn",
    "date": "2026-11-09",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "电路基础",
+   "location": "教1楼206(多媒体)"
+  },
+  "1e940092eb2307ba0d4e5631788ae8399204287b@hbeu.edu.cn": {
+   "uid": "1e940092eb2307ba0d4e5631788ae8399204287b@hbeu.edu.cn",
+   "date": "2026-11-10",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "8e50c472bdd8b34ba5bf8451d27834df2c04c6b8@hbeu.edu.cn": {
+   "uid": "8e50c472bdd8b34ba5bf8451d27834df2c04c6b8@hbeu.edu.cn",
+   "date": "2026-11-10",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "ff65575c5a75d8d4243f76fd201120913bd18880@hbeu.edu.cn": {
+   "uid": "ff65575c5a75d8d4243f76fd201120913bd18880@hbeu.edu.cn",
+   "date": "2026-11-10",
    "start": "14:00",
    "end": "15:40",
    "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
+   "location": "教1楼306(多媒体)"
   },
-  "97e24e5c847b52a1b840c26ebea231ae12a36940@hbeu.edu.cn": {
-   "uid": "97e24e5c847b52a1b840c26ebea231ae12a36940@hbeu.edu.cn",
-   "date": "2026-11-09",
+  "9ff8d09013ff7da919991a213763eb06af6cd1e1@hbeu.edu.cn": {
+   "uid": "9ff8d09013ff7da919991a213763eb06af6cd1e1@hbeu.edu.cn",
+   "date": "2026-11-10",
    "start": "16:10",
    "end": "17:50",
-   "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
   },
-  "bcc5558ef8044c20dd3ccaaef494f5ec5c64afe2@hbeu.edu.cn": {
-   "uid": "bcc5558ef8044c20dd3ccaaef494f5ec5c64afe2@hbeu.edu.cn",
+  "6e3fa734b2196eae3ee659a1731a415a0656a244@hbeu.edu.cn": {
+   "uid": "6e3fa734b2196eae3ee659a1731a415a0656a244@hbeu.edu.cn",
+   "date": "2026-11-11",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "649cbd64bdc79e26fb76c0992b3b755362a47d32@hbeu.edu.cn": {
+   "uid": "649cbd64bdc79e26fb76c0992b3b755362a47d32@hbeu.edu.cn",
+   "date": "2026-11-11",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "76b2e11c74a087a76286f6885b0211c0448845fc@hbeu.edu.cn": {
+   "uid": "76b2e11c74a087a76286f6885b0211c0448845fc@hbeu.edu.cn",
    "date": "2026-11-11",
    "start": "14:00",
    "end": "15:40",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "9926495983cea81f53bb31a3a6a74d1564052935@hbeu.edu.cn": {
-   "uid": "9926495983cea81f53bb31a3a6a74d1564052935@hbeu.edu.cn",
+  "b4737907f7bc7eb07f0752e1d3a7052d180a0116@hbeu.edu.cn": {
+   "uid": "b4737907f7bc7eb07f0752e1d3a7052d180a0116@hbeu.edu.cn",
    "date": "2026-11-11",
    "start": "16:10",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "实验楼软件工程实验室(JS-203)"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "9d5548643e420fd540d5295eb8c660af3f0141c7@hbeu.edu.cn": {
-   "uid": "9d5548643e420fd540d5295eb8c660af3f0141c7@hbeu.edu.cn",
+  "598e91c046735d4f543e5c3304b213239a4eb54d@hbeu.edu.cn": {
+   "uid": "598e91c046735d4f543e5c3304b213239a4eb54d@hbeu.edu.cn",
+   "date": "2026-11-12",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "0016a797d38da214eaa614d43f25088b8a2487a1@hbeu.edu.cn": {
+   "uid": "0016a797d38da214eaa614d43f25088b8a2487a1@hbeu.edu.cn",
    "date": "2026-11-12",
    "start": "10:10",
    "end": "11:50",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "b749cf573f7a0af1ef303c7f4287c8bf456acd32@hbeu.edu.cn": {
-   "uid": "b749cf573f7a0af1ef303c7f4287c8bf456acd32@hbeu.edu.cn",
-   "date": "2026-11-14",
-   "start": "10:10",
+  "44c3362c15ba18d444e70970d2b7b1dbfc9c2529@hbeu.edu.cn": {
+   "uid": "44c3362c15ba18d444e70970d2b7b1dbfc9c2529@hbeu.edu.cn",
+   "date": "2026-11-13",
+   "start": "08:00",
    "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "170a067c718cee2ee1253a349591517d0a7d43ac@hbeu.edu.cn": {
-   "uid": "170a067c718cee2ee1253a349591517d0a7d43ac@hbeu.edu.cn",
+  "46dcd53b90dea022a0ade9c482996019fdf623e3@hbeu.edu.cn": {
+   "uid": "46dcd53b90dea022a0ade9c482996019fdf623e3@hbeu.edu.cn",
    "date": "2026-11-16",
-   "start": "14:00",
-   "end": "15:40",
-   "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
   },
-  "405d1a57f24e228ccd27c0b750efd8041032ffb3@hbeu.edu.cn": {
-   "uid": "405d1a57f24e228ccd27c0b750efd8041032ffb3@hbeu.edu.cn",
+  "b5d633727a2b60df73c938cf1af7b687cd4c3683@hbeu.edu.cn": {
+   "uid": "b5d633727a2b60df73c938cf1af7b687cd4c3683@hbeu.edu.cn",
    "date": "2026-11-16",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "5ad4325f13f5a042cd6ce02428c97d1205901f22@hbeu.edu.cn": {
-   "uid": "5ad4325f13f5a042cd6ce02428c97d1205901f22@hbeu.edu.cn",
+  "6fbdc65efae4970e2709490a4dc0bf4ee5b09c64@hbeu.edu.cn": {
+   "uid": "6fbdc65efae4970e2709490a4dc0bf4ee5b09c64@hbeu.edu.cn",
+   "date": "2026-11-17",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "计算机组成原理",
+   "location": "计科楼自动控制实验室(JS-302)"
+  },
+  "3a9455637faf77bd6665b7ae335b6e0471cc7a20@hbeu.edu.cn": {
+   "uid": "3a9455637faf77bd6665b7ae335b6e0471cc7a20@hbeu.edu.cn",
+   "date": "2026-11-17",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "047397573ae73f5940f075b64ffa22f0c082b8cb@hbeu.edu.cn": {
+   "uid": "047397573ae73f5940f075b64ffa22f0c082b8cb@hbeu.edu.cn",
+   "date": "2026-11-17",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "数据结构与算法",
+   "location": "教1楼306(多媒体)"
+  },
+  "1abce01b79f65c30e33b020d7018db82a2af00d3@hbeu.edu.cn": {
+   "uid": "1abce01b79f65c30e33b020d7018db82a2af00d3@hbeu.edu.cn",
+   "date": "2026-11-17",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
+  },
+  "ff59c478a13ce68c8cac713a4fa6a4bceb665c90@hbeu.edu.cn": {
+   "uid": "ff59c478a13ce68c8cac713a4fa6a4bceb665c90@hbeu.edu.cn",
+   "date": "2026-11-18",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "f71451acb3735578576271c9853c1dfd495a6b15@hbeu.edu.cn": {
+   "uid": "f71451acb3735578576271c9853c1dfd495a6b15@hbeu.edu.cn",
+   "date": "2026-11-18",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "56f0bc2e0cc41827d0aa7d774e75710d475281f6@hbeu.edu.cn": {
+   "uid": "56f0bc2e0cc41827d0aa7d774e75710d475281f6@hbeu.edu.cn",
    "date": "2026-11-18",
    "start": "14:00",
    "end": "15:40",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "8f873bf83a6b396730ebe0c9cd990b0a7d5924c2@hbeu.edu.cn": {
-   "uid": "8f873bf83a6b396730ebe0c9cd990b0a7d5924c2@hbeu.edu.cn",
+  "1d44dd477e055d6a306cbfdcab0572a0557da9ed@hbeu.edu.cn": {
+   "uid": "1d44dd477e055d6a306cbfdcab0572a0557da9ed@hbeu.edu.cn",
    "date": "2026-11-18",
    "start": "16:10",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "实验楼软件工程实验室(JS-203)"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "9e3b968d1428e7340cea51ee6b7da32b4fd2723f@hbeu.edu.cn": {
-   "uid": "9e3b968d1428e7340cea51ee6b7da32b4fd2723f@hbeu.edu.cn",
+  "69fabd6a7f7044bae28e697421b91ac6fca1341d@hbeu.edu.cn": {
+   "uid": "69fabd6a7f7044bae28e697421b91ac6fca1341d@hbeu.edu.cn",
+   "date": "2026-11-19",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "4e7623c16819058c54bc118f0205bcf2313e707a@hbeu.edu.cn": {
+   "uid": "4e7623c16819058c54bc118f0205bcf2313e707a@hbeu.edu.cn",
    "date": "2026-11-19",
    "start": "10:10",
    "end": "11:50",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "85690c6b63fb424916ef54fe9a24e2b8a1b56cd3@hbeu.edu.cn": {
-   "uid": "85690c6b63fb424916ef54fe9a24e2b8a1b56cd3@hbeu.edu.cn",
+  "7cb6d485d69668cbbdec6d3fec31ea19ee732bcb@hbeu.edu.cn": {
+   "uid": "7cb6d485d69668cbbdec6d3fec31ea19ee732bcb@hbeu.edu.cn",
    "date": "2026-11-19",
    "start": "19:00",
    "end": "20:40",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "05c2e167012f16749c332b0a68987397f242e1ee@hbeu.edu.cn": {
-   "uid": "05c2e167012f16749c332b0a68987397f242e1ee@hbeu.edu.cn",
-   "date": "2026-11-21",
-   "start": "10:10",
+  "93c215261bb1d2db7f306dbfbfbd187d54b80d02@hbeu.edu.cn": {
+   "uid": "93c215261bb1d2db7f306dbfbfbd187d54b80d02@hbeu.edu.cn",
+   "date": "2026-11-20",
+   "start": "08:00",
    "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "2f15a3e2e7818ab6d840e6b27fc907af9277cecb@hbeu.edu.cn": {
-   "uid": "2f15a3e2e7818ab6d840e6b27fc907af9277cecb@hbeu.edu.cn",
+  "d5dcf265ea1b0f3520c6dbbb6c07457bdb33fdf0@hbeu.edu.cn": {
+   "uid": "d5dcf265ea1b0f3520c6dbbb6c07457bdb33fdf0@hbeu.edu.cn",
+   "date": "2026-11-23",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
+  },
+  "80cfc29bba32bc7955452299f8d7e38e77dac605@hbeu.edu.cn": {
+   "uid": "80cfc29bba32bc7955452299f8d7e38e77dac605@hbeu.edu.cn",
    "date": "2026-11-23",
    "start": "10:10",
    "end": "11:50",
    "summary": "电路基础",
-   "location": "实验楼基础实验室一(JS-104)"
+   "location": "计科楼基础实验室一(JS-104)"
   },
-  "e91df863ffe56fc555ce50b316a135c110c26ead@hbeu.edu.cn": {
-   "uid": "e91df863ffe56fc555ce50b316a135c110c26ead@hbeu.edu.cn",
+  "1ecfdc93f187f0f6069347ba8a70ae140bd7ea26@hbeu.edu.cn": {
+   "uid": "1ecfdc93f187f0f6069347ba8a70ae140bd7ea26@hbeu.edu.cn",
    "date": "2026-11-23",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "电路基础",
+   "location": "教1楼206(多媒体)"
+  },
+  "7352e75b8c01f57d08dfeb40740ce460b087dad2@hbeu.edu.cn": {
+   "uid": "7352e75b8c01f57d08dfeb40740ce460b087dad2@hbeu.edu.cn",
+   "date": "2026-11-24",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "3b549a3e604a015e61f94a063f4fb47ddcd35794@hbeu.edu.cn": {
+   "uid": "3b549a3e604a015e61f94a063f4fb47ddcd35794@hbeu.edu.cn",
+   "date": "2026-11-24",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "986625216147c5893348e364e9dfaeb360b15a18@hbeu.edu.cn": {
+   "uid": "986625216147c5893348e364e9dfaeb360b15a18@hbeu.edu.cn",
+   "date": "2026-11-24",
    "start": "14:00",
    "end": "15:40",
    "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
+   "location": "教1楼306(多媒体)"
   },
-  "4ef2cd644f3c08ea3bc19a828c576206059e5d26@hbeu.edu.cn": {
-   "uid": "4ef2cd644f3c08ea3bc19a828c576206059e5d26@hbeu.edu.cn",
-   "date": "2026-11-23",
+  "a6482dcb3ee383e3e001a151065e54401f76e0bb@hbeu.edu.cn": {
+   "uid": "a6482dcb3ee383e3e001a151065e54401f76e0bb@hbeu.edu.cn",
+   "date": "2026-11-24",
    "start": "16:10",
    "end": "17:50",
-   "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
   },
-  "421985a867c2ceef1eecd602cf0a52497e0ac476@hbeu.edu.cn": {
-   "uid": "421985a867c2ceef1eecd602cf0a52497e0ac476@hbeu.edu.cn",
+  "6b8849093346d8cf2dc52a80fd3e1fe20d468706@hbeu.edu.cn": {
+   "uid": "6b8849093346d8cf2dc52a80fd3e1fe20d468706@hbeu.edu.cn",
+   "date": "2026-11-25",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "947f84f4ab133a006236366a533239526ab9ba80@hbeu.edu.cn": {
+   "uid": "947f84f4ab133a006236366a533239526ab9ba80@hbeu.edu.cn",
+   "date": "2026-11-25",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "8715e0d99431f3299fc7d5ba354280be8a3970af@hbeu.edu.cn": {
+   "uid": "8715e0d99431f3299fc7d5ba354280be8a3970af@hbeu.edu.cn",
    "date": "2026-11-25",
    "start": "14:00",
    "end": "15:40",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "fef9f117b8f86076b05c1771ff7085568e53cadd@hbeu.edu.cn": {
-   "uid": "fef9f117b8f86076b05c1771ff7085568e53cadd@hbeu.edu.cn",
+  "51a6114084b1ef95ba1d673909551c0f60713cfe@hbeu.edu.cn": {
+   "uid": "51a6114084b1ef95ba1d673909551c0f60713cfe@hbeu.edu.cn",
    "date": "2026-11-25",
    "start": "16:10",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "实验楼软件工程实验室(JS-203)"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "017afa07211f5865e8a6300dc0d8706cc28bca94@hbeu.edu.cn": {
-   "uid": "017afa07211f5865e8a6300dc0d8706cc28bca94@hbeu.edu.cn",
+  "3fb05cf66c9e7a65a3c7c1eefe733064843cb08b@hbeu.edu.cn": {
+   "uid": "3fb05cf66c9e7a65a3c7c1eefe733064843cb08b@hbeu.edu.cn",
+   "date": "2026-11-26",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "7939f25def63f0b84608af9599e275f4c223a338@hbeu.edu.cn": {
+   "uid": "7939f25def63f0b84608af9599e275f4c223a338@hbeu.edu.cn",
    "date": "2026-11-26",
    "start": "10:10",
    "end": "11:50",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "5d6c2e38fced2c06558450c4bfcb9be50a595a0f@hbeu.edu.cn": {
-   "uid": "5d6c2e38fced2c06558450c4bfcb9be50a595a0f@hbeu.edu.cn",
-   "date": "2026-11-28",
-   "start": "10:10",
+  "0027d57026a0718f96f131eab10c5354c8dcc473@hbeu.edu.cn": {
+   "uid": "0027d57026a0718f96f131eab10c5354c8dcc473@hbeu.edu.cn",
+   "date": "2026-11-27",
+   "start": "08:00",
    "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "56222c975f4ed529da43a6f2780c254622a4fc3e@hbeu.edu.cn": {
-   "uid": "56222c975f4ed529da43a6f2780c254622a4fc3e@hbeu.edu.cn",
+  "33bc6b49101815924965dd9cfe69afa9a4f9e478@hbeu.edu.cn": {
+   "uid": "33bc6b49101815924965dd9cfe69afa9a4f9e478@hbeu.edu.cn",
+   "date": "2026-11-30",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
+  },
+  "8452997767b7e37c6729e4f3bfedb1b9cbfeda39@hbeu.edu.cn": {
+   "uid": "8452997767b7e37c6729e4f3bfedb1b9cbfeda39@hbeu.edu.cn",
    "date": "2026-11-30",
    "start": "14:00",
    "end": "15:40",
    "summary": "形势与政策",
-   "location": "主楼C308(多媒体)"
+   "location": "经法楼308(多媒体)"
   },
-  "1d81b16ab11771786cde61d9c64b4099d2e2ca41@hbeu.edu.cn": {
-   "uid": "1d81b16ab11771786cde61d9c64b4099d2e2ca41@hbeu.edu.cn",
-   "date": "2026-11-30",
-   "start": "14:00",
-   "end": "15:40",
-   "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
-  },
-  "9a0707b8384350e7b143cb8aae1f2ebe7660fa72@hbeu.edu.cn": {
-   "uid": "9a0707b8384350e7b143cb8aae1f2ebe7660fa72@hbeu.edu.cn",
+  "e38f1574503b130c04440767cbff9554d2052684@hbeu.edu.cn": {
+   "uid": "e38f1574503b130c04440767cbff9554d2052684@hbeu.edu.cn",
    "date": "2026-11-30",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "6033fc3b0f9e029c72b12bc62f9794c3b542732a@hbeu.edu.cn": {
-   "uid": "6033fc3b0f9e029c72b12bc62f9794c3b542732a@hbeu.edu.cn",
+  "2cf7cd3909b1b7ba74709db6ef97d7ecac045c4f@hbeu.edu.cn": {
+   "uid": "2cf7cd3909b1b7ba74709db6ef97d7ecac045c4f@hbeu.edu.cn",
+   "date": "2026-12-01",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "计算机组成原理",
+   "location": "计科楼自动控制实验室(JS-302)"
+  },
+  "d0086ac84b261170387c3abaf6099acc99d5b128@hbeu.edu.cn": {
+   "uid": "d0086ac84b261170387c3abaf6099acc99d5b128@hbeu.edu.cn",
+   "date": "2026-12-01",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "8136cf7c4f747d592dad63ae2cad894a3711a678@hbeu.edu.cn": {
+   "uid": "8136cf7c4f747d592dad63ae2cad894a3711a678@hbeu.edu.cn",
+   "date": "2026-12-01",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "数据结构与算法",
+   "location": "教1楼306(多媒体)"
+  },
+  "c7e1024b145318c48606b074c5d6ed2afec71bb9@hbeu.edu.cn": {
+   "uid": "c7e1024b145318c48606b074c5d6ed2afec71bb9@hbeu.edu.cn",
+   "date": "2026-12-01",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
+  },
+  "242b6a61e982bc7148ca6da2455958865de03299@hbeu.edu.cn": {
+   "uid": "242b6a61e982bc7148ca6da2455958865de03299@hbeu.edu.cn",
+   "date": "2026-12-02",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "093f89c15ad95e7e53d193b1117be6f446f72770@hbeu.edu.cn": {
+   "uid": "093f89c15ad95e7e53d193b1117be6f446f72770@hbeu.edu.cn",
+   "date": "2026-12-02",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "5a72adf38b719c3c480316477bb2da0028ccdcc7@hbeu.edu.cn": {
+   "uid": "5a72adf38b719c3c480316477bb2da0028ccdcc7@hbeu.edu.cn",
    "date": "2026-12-02",
    "start": "14:00",
    "end": "15:40",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "2cc79e5c31bd765c552eb23e8c02176e979c1b7d@hbeu.edu.cn": {
-   "uid": "2cc79e5c31bd765c552eb23e8c02176e979c1b7d@hbeu.edu.cn",
+  "c237adb89e6a3a5831101f75a549865e980dfcf2@hbeu.edu.cn": {
+   "uid": "c237adb89e6a3a5831101f75a549865e980dfcf2@hbeu.edu.cn",
    "date": "2026-12-02",
    "start": "16:10",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "实验楼软件工程实验室(JS-203)"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "5f52104af2134543d532f397fbd1be28541fc783@hbeu.edu.cn": {
-   "uid": "5f52104af2134543d532f397fbd1be28541fc783@hbeu.edu.cn",
+  "be38bc570c327cbbb064504a5db6a01581d50d0e@hbeu.edu.cn": {
+   "uid": "be38bc570c327cbbb064504a5db6a01581d50d0e@hbeu.edu.cn",
+   "date": "2026-12-03",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "ad8861047ed5579ba63415971fd1e8f429b6f601@hbeu.edu.cn": {
+   "uid": "ad8861047ed5579ba63415971fd1e8f429b6f601@hbeu.edu.cn",
    "date": "2026-12-03",
    "start": "10:10",
    "end": "11:50",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "3f2313ec2f4e4d1eb611d0d4cac45afa9b14e38b@hbeu.edu.cn": {
-   "uid": "3f2313ec2f4e4d1eb611d0d4cac45afa9b14e38b@hbeu.edu.cn",
+  "6fc53a8dcd12c8a9e031168b2c42138e3cda3fd7@hbeu.edu.cn": {
+   "uid": "6fc53a8dcd12c8a9e031168b2c42138e3cda3fd7@hbeu.edu.cn",
    "date": "2026-12-03",
    "start": "19:00",
    "end": "20:40",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "1fc6c3298bd800192685855f0da1b7c58eb45ee4@hbeu.edu.cn": {
-   "uid": "1fc6c3298bd800192685855f0da1b7c58eb45ee4@hbeu.edu.cn",
-   "date": "2026-12-05",
-   "start": "10:10",
+  "0187bac53019d34f47547543ebb79ea892baaff6@hbeu.edu.cn": {
+   "uid": "0187bac53019d34f47547543ebb79ea892baaff6@hbeu.edu.cn",
+   "date": "2026-12-04",
+   "start": "08:00",
    "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "046c9f9378537a901a3af0af17c878589fda0225@hbeu.edu.cn": {
-   "uid": "046c9f9378537a901a3af0af17c878589fda0225@hbeu.edu.cn",
+  "6a20d1e183d90f491529dd062c977baa668f4b53@hbeu.edu.cn": {
+   "uid": "6a20d1e183d90f491529dd062c977baa668f4b53@hbeu.edu.cn",
+   "date": "2026-12-07",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
+  },
+  "331d7a53bcbac9bdead985f9cdad4a319f0db27b@hbeu.edu.cn": {
+   "uid": "331d7a53bcbac9bdead985f9cdad4a319f0db27b@hbeu.edu.cn",
    "date": "2026-12-07",
    "start": "10:10",
    "end": "11:50",
    "summary": "电路基础",
-   "location": "实验楼基础实验室一(JS-104)"
+   "location": "计科楼基础实验室一(JS-104)"
   },
-  "1805d46df1c33fdeb0ad58838a13a2942156abb7@hbeu.edu.cn": {
-   "uid": "1805d46df1c33fdeb0ad58838a13a2942156abb7@hbeu.edu.cn",
+  "20b7bf2c7ab0ab82491668a44303938cef1669a3@hbeu.edu.cn": {
+   "uid": "20b7bf2c7ab0ab82491668a44303938cef1669a3@hbeu.edu.cn",
    "date": "2026-12-07",
    "start": "14:00",
    "end": "15:40",
    "summary": "形势与政策",
-   "location": "主楼C308(多媒体)"
+   "location": "经法楼308(多媒体)"
   },
-  "d143615625eca75f366034e48643fc127cf9e78e@hbeu.edu.cn": {
-   "uid": "d143615625eca75f366034e48643fc127cf9e78e@hbeu.edu.cn",
-   "date": "2026-12-07",
-   "start": "14:00",
-   "end": "15:40",
-   "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
-  },
-  "d27bba5f628eb0b89adb06d1fac395432b79d84b@hbeu.edu.cn": {
-   "uid": "d27bba5f628eb0b89adb06d1fac395432b79d84b@hbeu.edu.cn",
+  "2ee7777455e8ddfec470ede9dea845dec15fe8a8@hbeu.edu.cn": {
+   "uid": "2ee7777455e8ddfec470ede9dea845dec15fe8a8@hbeu.edu.cn",
    "date": "2026-12-07",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "539324046ec0b6f9c4ff757c8b904167ae003057@hbeu.edu.cn": {
-   "uid": "539324046ec0b6f9c4ff757c8b904167ae003057@hbeu.edu.cn",
+  "8a57c9e1d1150ff22f41c87325fb7a48aed009e8@hbeu.edu.cn": {
+   "uid": "8a57c9e1d1150ff22f41c87325fb7a48aed009e8@hbeu.edu.cn",
+   "date": "2026-12-08",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "cb33307bbcbb18799aec6338a5ca9f913569242d@hbeu.edu.cn": {
+   "uid": "cb33307bbcbb18799aec6338a5ca9f913569242d@hbeu.edu.cn",
+   "date": "2026-12-08",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "60f1bc6a1141437e33ef1df405cf8dbb4cd5c87a@hbeu.edu.cn": {
+   "uid": "60f1bc6a1141437e33ef1df405cf8dbb4cd5c87a@hbeu.edu.cn",
+   "date": "2026-12-08",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "数据结构与算法",
+   "location": "教1楼306(多媒体)"
+  },
+  "1870a4fa297454dda3b50181fbfc34825738d6cc@hbeu.edu.cn": {
+   "uid": "1870a4fa297454dda3b50181fbfc34825738d6cc@hbeu.edu.cn",
+   "date": "2026-12-08",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
+  },
+  "03024d1a873b8a8541a00888075729713e32014b@hbeu.edu.cn": {
+   "uid": "03024d1a873b8a8541a00888075729713e32014b@hbeu.edu.cn",
+   "date": "2026-12-09",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "3afcf83b386ca8784fbd5b1a81ec16b148eb57c8@hbeu.edu.cn": {
+   "uid": "3afcf83b386ca8784fbd5b1a81ec16b148eb57c8@hbeu.edu.cn",
+   "date": "2026-12-09",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "451344da4b64d9ffcf37f6e25a8ee93bcc532b55@hbeu.edu.cn": {
+   "uid": "451344da4b64d9ffcf37f6e25a8ee93bcc532b55@hbeu.edu.cn",
    "date": "2026-12-09",
    "start": "14:00",
    "end": "15:40",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "b6318af2fb178d738b756d5104aad6fe63595afd@hbeu.edu.cn": {
-   "uid": "b6318af2fb178d738b756d5104aad6fe63595afd@hbeu.edu.cn",
+  "82ae50649058b6571d7363d1a07064858c91068c@hbeu.edu.cn": {
+   "uid": "82ae50649058b6571d7363d1a07064858c91068c@hbeu.edu.cn",
    "date": "2026-12-09",
    "start": "16:10",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "实验楼软件工程实验室(JS-203)"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "bbb55eb9653ddf0d0c8335de2dba63e59a2b5c31@hbeu.edu.cn": {
-   "uid": "bbb55eb9653ddf0d0c8335de2dba63e59a2b5c31@hbeu.edu.cn",
+  "b88fcc37e912cef321a0eed0aeaa51b50086e7d9@hbeu.edu.cn": {
+   "uid": "b88fcc37e912cef321a0eed0aeaa51b50086e7d9@hbeu.edu.cn",
+   "date": "2026-12-10",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "4c3c61c2269e2a4b0773203c66b6da6fcbd9fb8d@hbeu.edu.cn": {
+   "uid": "4c3c61c2269e2a4b0773203c66b6da6fcbd9fb8d@hbeu.edu.cn",
    "date": "2026-12-10",
    "start": "10:10",
    "end": "11:50",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "f9a7b49cdc8a021ed8e91c3834e679180680282e@hbeu.edu.cn": {
-   "uid": "f9a7b49cdc8a021ed8e91c3834e679180680282e@hbeu.edu.cn",
-   "date": "2026-12-12",
-   "start": "10:10",
+  "948d9a5167164a27aac947ae62620ca8fce205d6@hbeu.edu.cn": {
+   "uid": "948d9a5167164a27aac947ae62620ca8fce205d6@hbeu.edu.cn",
+   "date": "2026-12-11",
+   "start": "08:00",
    "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "abce441f7f6c3a6392a42fc977c8b44cbe4d8018@hbeu.edu.cn": {
-   "uid": "abce441f7f6c3a6392a42fc977c8b44cbe4d8018@hbeu.edu.cn",
+  "a7eff596224a8f8318f8ac4919c1dc22999653fb@hbeu.edu.cn": {
+   "uid": "a7eff596224a8f8318f8ac4919c1dc22999653fb@hbeu.edu.cn",
+   "date": "2026-12-14",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
+  },
+  "37f6614502311728ede43c06ff421d76e2d9f3a5@hbeu.edu.cn": {
+   "uid": "37f6614502311728ede43c06ff421d76e2d9f3a5@hbeu.edu.cn",
    "date": "2026-12-14",
    "start": "14:00",
    "end": "15:40",
    "summary": "形势与政策",
-   "location": "主楼C308(多媒体)"
+   "location": "经法楼308(多媒体)"
   },
-  "6d24c33ccef440b60ec57c45b0a6eb5014cb096b@hbeu.edu.cn": {
-   "uid": "6d24c33ccef440b60ec57c45b0a6eb5014cb096b@hbeu.edu.cn",
-   "date": "2026-12-14",
-   "start": "14:00",
-   "end": "15:40",
-   "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
-  },
-  "9431c3254db7f617e5f3460ffa222e3b4680bdd6@hbeu.edu.cn": {
-   "uid": "9431c3254db7f617e5f3460ffa222e3b4680bdd6@hbeu.edu.cn",
+  "9857fed01e610f4d555be461629af154078ce273@hbeu.edu.cn": {
+   "uid": "9857fed01e610f4d555be461629af154078ce273@hbeu.edu.cn",
    "date": "2026-12-14",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "7603f7935dac9c4b0b56c7a0092425fae023c6f7@hbeu.edu.cn": {
-   "uid": "7603f7935dac9c4b0b56c7a0092425fae023c6f7@hbeu.edu.cn",
+  "4ade53b1664adecb9121ba8081136b10093e461b@hbeu.edu.cn": {
+   "uid": "4ade53b1664adecb9121ba8081136b10093e461b@hbeu.edu.cn",
+   "date": "2026-12-15",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "计算机组成原理",
+   "location": "计科楼自动控制实验室(JS-302)"
+  },
+  "a4f07e71d4363568760675bf33b532b62705c5ae@hbeu.edu.cn": {
+   "uid": "a4f07e71d4363568760675bf33b532b62705c5ae@hbeu.edu.cn",
+   "date": "2026-12-15",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "fdd0a0d53ec906d4940a32e24951b03fc1506289@hbeu.edu.cn": {
+   "uid": "fdd0a0d53ec906d4940a32e24951b03fc1506289@hbeu.edu.cn",
+   "date": "2026-12-15",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "数据结构与算法",
+   "location": "教1楼306(多媒体)"
+  },
+  "8c04683aab7ba1d4a8b8f060a16bb7701b70acc0@hbeu.edu.cn": {
+   "uid": "8c04683aab7ba1d4a8b8f060a16bb7701b70acc0@hbeu.edu.cn",
+   "date": "2026-12-15",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
+  },
+  "7a217639ce521bc1711bc657b3ca6d15f0490a27@hbeu.edu.cn": {
+   "uid": "7a217639ce521bc1711bc657b3ca6d15f0490a27@hbeu.edu.cn",
+   "date": "2026-12-16",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "63660f6217f9c9c19239a1390db7229fb5599628@hbeu.edu.cn": {
+   "uid": "63660f6217f9c9c19239a1390db7229fb5599628@hbeu.edu.cn",
+   "date": "2026-12-16",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "7b5ef1f0999c1f28c7341d6b35ef57e8232d5a82@hbeu.edu.cn": {
+   "uid": "7b5ef1f0999c1f28c7341d6b35ef57e8232d5a82@hbeu.edu.cn",
    "date": "2026-12-16",
    "start": "14:00",
    "end": "15:40",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "63906806794db914c93e43ffd30281aade32cbbc@hbeu.edu.cn": {
-   "uid": "63906806794db914c93e43ffd30281aade32cbbc@hbeu.edu.cn",
+  "278beba219793155a40d75ce2ce693d7dd548369@hbeu.edu.cn": {
+   "uid": "278beba219793155a40d75ce2ce693d7dd548369@hbeu.edu.cn",
    "date": "2026-12-16",
    "start": "16:10",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "实验楼软件工程实验室(JS-203)"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "a0ff6ec61ae28b4cd5d05f6af06b9c3adeaba71e@hbeu.edu.cn": {
-   "uid": "a0ff6ec61ae28b4cd5d05f6af06b9c3adeaba71e@hbeu.edu.cn",
+  "b7f280b8cdb5d583d5eea88e5eb7c240d732b30c@hbeu.edu.cn": {
+   "uid": "b7f280b8cdb5d583d5eea88e5eb7c240d732b30c@hbeu.edu.cn",
+   "date": "2026-12-17",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "b436bd282d73162b05481bdfad975ed5c1147391@hbeu.edu.cn": {
+   "uid": "b436bd282d73162b05481bdfad975ed5c1147391@hbeu.edu.cn",
    "date": "2026-12-17",
    "start": "10:10",
    "end": "11:50",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "7ef9452c7ff2e6fbe73c4cbc5036ea27d75e8d12@hbeu.edu.cn": {
-   "uid": "7ef9452c7ff2e6fbe73c4cbc5036ea27d75e8d12@hbeu.edu.cn",
+  "c2629f0bbc08e8da5c77cd18e78c3a135f74e265@hbeu.edu.cn": {
+   "uid": "c2629f0bbc08e8da5c77cd18e78c3a135f74e265@hbeu.edu.cn",
    "date": "2026-12-17",
    "start": "19:00",
    "end": "20:40",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "88971efced07650f476e7b52cd6d4b9b8d2dcc1d@hbeu.edu.cn": {
-   "uid": "88971efced07650f476e7b52cd6d4b9b8d2dcc1d@hbeu.edu.cn",
-   "date": "2026-12-19",
-   "start": "10:10",
+  "f58d366f8252ff4eab96612b695fcb01c3300bbb@hbeu.edu.cn": {
+   "uid": "f58d366f8252ff4eab96612b695fcb01c3300bbb@hbeu.edu.cn",
+   "date": "2026-12-18",
+   "start": "08:00",
    "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "445bc9f44b09a3adefdd1b981d5f10aa913f1c7b@hbeu.edu.cn": {
-   "uid": "445bc9f44b09a3adefdd1b981d5f10aa913f1c7b@hbeu.edu.cn",
+  "1822fccc2055cc58c4f2033d92041a0dc1e026d2@hbeu.edu.cn": {
+   "uid": "1822fccc2055cc58c4f2033d92041a0dc1e026d2@hbeu.edu.cn",
+   "date": "2026-12-21",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "毛泽东思想和中国特色社会主义理论体系概论",
+   "location": "外语楼106（外院多媒体）"
+  },
+  "7f0b1d48579e3624255b5bf6ec0b88b78b4f3642@hbeu.edu.cn": {
+   "uid": "7f0b1d48579e3624255b5bf6ec0b88b78b4f3642@hbeu.edu.cn",
    "date": "2026-12-21",
    "start": "10:10",
    "end": "11:50",
    "summary": "电路基础",
-   "location": "实验楼基础实验室一(JS-104)"
+   "location": "计科楼基础实验室一(JS-104)"
   },
-  "0fb1ee6d9ceef4ef15e17c16c845470a4b72bfd1@hbeu.edu.cn": {
-   "uid": "0fb1ee6d9ceef4ef15e17c16c845470a4b72bfd1@hbeu.edu.cn",
+  "c79ecc44125ad6e2233c70155ed67a7513417035@hbeu.edu.cn": {
+   "uid": "c79ecc44125ad6e2233c70155ed67a7513417035@hbeu.edu.cn",
    "date": "2026-12-21",
    "start": "14:00",
    "end": "15:40",
    "summary": "形势与政策",
-   "location": "主楼C308(多媒体)"
+   "location": "经法楼308(多媒体)"
   },
-  "6085a27a322640918504e8579d3cb21b2958ef3e@hbeu.edu.cn": {
-   "uid": "6085a27a322640918504e8579d3cb21b2958ef3e@hbeu.edu.cn",
-   "date": "2026-12-21",
-   "start": "14:00",
-   "end": "15:40",
-   "summary": "数据结构与算法",
-   "location": "主楼A201（多媒体）"
-  },
-  "0cfcb920ac4b13564e07141482c682d02cfdb924@hbeu.edu.cn": {
-   "uid": "0cfcb920ac4b13564e07141482c682d02cfdb924@hbeu.edu.cn",
+  "d4e302c21b354222202baabaa9453792c91a254a@hbeu.edu.cn": {
+   "uid": "d4e302c21b354222202baabaa9453792c91a254a@hbeu.edu.cn",
    "date": "2026-12-21",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "dcc7b23e13cb3d87bb361aaa3f99bb05a5afd358@hbeu.edu.cn": {
-   "uid": "dcc7b23e13cb3d87bb361aaa3f99bb05a5afd358@hbeu.edu.cn",
+  "28764af944cd40bb1156fdc2ee005469c0f795c5@hbeu.edu.cn": {
+   "uid": "28764af944cd40bb1156fdc2ee005469c0f795c5@hbeu.edu.cn",
+   "date": "2026-12-22",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "84e3b11120bb9a8c9c9184334c0b2885d36055fe@hbeu.edu.cn": {
+   "uid": "84e3b11120bb9a8c9c9184334c0b2885d36055fe@hbeu.edu.cn",
+   "date": "2026-12-22",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "f65c4d880d1fd094295cc371059eb91cc632d508@hbeu.edu.cn": {
+   "uid": "f65c4d880d1fd094295cc371059eb91cc632d508@hbeu.edu.cn",
+   "date": "2026-12-22",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "数据结构与算法",
+   "location": "教1楼306(多媒体)"
+  },
+  "24ee377d04c384ff268ec4cf722772079e9f30dd@hbeu.edu.cn": {
+   "uid": "24ee377d04c384ff268ec4cf722772079e9f30dd@hbeu.edu.cn",
+   "date": "2026-12-22",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
+  },
+  "83764acdee9ea3d82ed8d128ff7a7457cc408e00@hbeu.edu.cn": {
+   "uid": "83764acdee9ea3d82ed8d128ff7a7457cc408e00@hbeu.edu.cn",
+   "date": "2026-12-23",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "线性代数",
+   "location": "经法楼109(多媒体)"
+  },
+  "13c8885332868400341093d963334204c9a1c981@hbeu.edu.cn": {
+   "uid": "13c8885332868400341093d963334204c9a1c981@hbeu.edu.cn",
+   "date": "2026-12-23",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "4a98ff3d7a9040fbdd968769811564f89a01c9c5@hbeu.edu.cn": {
+   "uid": "4a98ff3d7a9040fbdd968769811564f89a01c9c5@hbeu.edu.cn",
    "date": "2026-12-23",
    "start": "14:00",
    "end": "15:40",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "cf2c6c257ee6fe8dc983717130330b2e4fea44c7@hbeu.edu.cn": {
-   "uid": "cf2c6c257ee6fe8dc983717130330b2e4fea44c7@hbeu.edu.cn",
+  "5fc7711589df7cc91c62150652752663a4538fa8@hbeu.edu.cn": {
+   "uid": "5fc7711589df7cc91c62150652752663a4538fa8@hbeu.edu.cn",
    "date": "2026-12-23",
    "start": "16:10",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "实验楼软件工程实验室(JS-203)"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "f7e321e0403b7b363395539e1816ee450fa3626f@hbeu.edu.cn": {
-   "uid": "f7e321e0403b7b363395539e1816ee450fa3626f@hbeu.edu.cn",
+  "a4e1aa34b1865807eb091501daf82c6265a2e4ec@hbeu.edu.cn": {
+   "uid": "a4e1aa34b1865807eb091501daf82c6265a2e4ec@hbeu.edu.cn",
+   "date": "2026-12-24",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "大学英语（三）",
+   "location": "教1楼309(多媒体)"
+  },
+  "352ac1bc88e369948659dc66f2dddeef5eab9b71@hbeu.edu.cn": {
+   "uid": "352ac1bc88e369948659dc66f2dddeef5eab9b71@hbeu.edu.cn",
    "date": "2026-12-24",
    "start": "10:10",
    "end": "11:50",
    "summary": "数据结构与算法",
-   "location": "实验楼B304"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "851201156b82db3b8121ff2df30eca2004f2bb14@hbeu.edu.cn": {
-   "uid": "851201156b82db3b8121ff2df30eca2004f2bb14@hbeu.edu.cn",
-   "date": "2026-12-26",
-   "start": "10:10",
+  "f30fcc6b5e958f9a73e2abc4caccf55a80094cc8@hbeu.edu.cn": {
+   "uid": "f30fcc6b5e958f9a73e2abc4caccf55a80094cc8@hbeu.edu.cn",
+   "date": "2026-12-25",
+   "start": "08:00",
    "end": "11:50",
-   "summary": "军事理论",
-   "location": "阶梯教室C101"
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
-  "079d677251ad93dc81e82a788a6a15ad089e6312@hbeu.edu.cn": {
-   "uid": "079d677251ad93dc81e82a788a6a15ad089e6312@hbeu.edu.cn",
+  "813adda2c856580870de2a7250c22665ef750856@hbeu.edu.cn": {
+   "uid": "813adda2c856580870de2a7250c22665ef750856@hbeu.edu.cn",
    "date": "2026-12-28",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "e2f47beb875c85a4d3ec21c5d01f7ee751c08dd2@hbeu.edu.cn": {
-   "uid": "e2f47beb875c85a4d3ec21c5d01f7ee751c08dd2@hbeu.edu.cn",
+  "a60d945d1d2794016df2d64ba4dfb3df75988c8d@hbeu.edu.cn": {
+   "uid": "a60d945d1d2794016df2d64ba4dfb3df75988c8d@hbeu.edu.cn",
+   "date": "2026-12-29",
+   "start": "08:00",
+   "end": "09:40",
+   "summary": "计算机组成原理",
+   "location": "计科楼自动控制实验室(JS-302)"
+  },
+  "af5cf01ea476e40cb8401364f8af09f69012101b@hbeu.edu.cn": {
+   "uid": "af5cf01ea476e40cb8401364f8af09f69012101b@hbeu.edu.cn",
+   "date": "2026-12-29",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "8d349a749e58edb5722666c2b2e6d6fbeb972fb4@hbeu.edu.cn": {
+   "uid": "8d349a749e58edb5722666c2b2e6d6fbeb972fb4@hbeu.edu.cn",
+   "date": "2026-12-29",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
+  },
+  "1954e4c2d53d5f8435f620c5202e19d7717d2460@hbeu.edu.cn": {
+   "uid": "1954e4c2d53d5f8435f620c5202e19d7717d2460@hbeu.edu.cn",
+   "date": "2026-12-30",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "大学体育（三）",
+   "location": "东篮球场7"
+  },
+  "54f73caf9ef2763bb0009a184f33342b6a777977@hbeu.edu.cn": {
+   "uid": "54f73caf9ef2763bb0009a184f33342b6a777977@hbeu.edu.cn",
    "date": "2026-12-30",
    "start": "14:00",
    "end": "15:40",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "956da694163066c6280d4010b2521bfa813027b8@hbeu.edu.cn": {
-   "uid": "956da694163066c6280d4010b2521bfa813027b8@hbeu.edu.cn",
+  "78f562565336ff6f8d558e35bb9ee2bd7315dc20@hbeu.edu.cn": {
+   "uid": "78f562565336ff6f8d558e35bb9ee2bd7315dc20@hbeu.edu.cn",
    "date": "2026-12-30",
    "start": "16:10",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "实验楼软件工程实验室(JS-203)"
+   "location": "计科楼软件工程实验室(JS-203)"
   },
-  "958f7f3a417789e25cd828fed0fb8f32429fed4b@hbeu.edu.cn": {
-   "uid": "958f7f3a417789e25cd828fed0fb8f32429fed4b@hbeu.edu.cn",
+  "8380cb19586c3737f7baada3fc0f8c5bbfdf4801@hbeu.edu.cn": {
+   "uid": "8380cb19586c3737f7baada3fc0f8c5bbfdf4801@hbeu.edu.cn",
    "date": "2027-01-04",
    "start": "16:10",
    "end": "17:50",
    "summary": "电路基础",
-   "location": "主楼B206(多媒体)"
+   "location": "教1楼206(多媒体)"
   },
-  "26f612c55079962e83e95deaef6ff150d1f8fd37@hbeu.edu.cn": {
-   "uid": "26f612c55079962e83e95deaef6ff150d1f8fd37@hbeu.edu.cn",
+  "4df00b697eb5e3550af23a34618ee20e0412fda3@hbeu.edu.cn": {
+   "uid": "4df00b697eb5e3550af23a34618ee20e0412fda3@hbeu.edu.cn",
+   "date": "2027-01-05",
+   "start": "10:10",
+   "end": "11:50",
+   "summary": "计算机组成原理",
+   "location": "教1楼208(多媒体)"
+  },
+  "7b3d88e593131941946d3c30e016586de497d61c@hbeu.edu.cn": {
+   "uid": "7b3d88e593131941946d3c30e016586de497d61c@hbeu.edu.cn",
+   "date": "2027-01-05",
+   "start": "16:10",
+   "end": "17:50",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
+  },
+  "e7222abfb20a6ea5d4bf20ff456f4a4c91c92a9e@hbeu.edu.cn": {
+   "uid": "e7222abfb20a6ea5d4bf20ff456f4a4c91c92a9e@hbeu.edu.cn",
    "date": "2027-01-06",
    "start": "14:00",
    "end": "15:40",
    "summary": "电子技术与数字逻辑",
-   "location": "主楼A306(多媒体)"
+   "location": "教1楼306(多媒体)"
   },
-  "af1839ada078047d10363b835c72f79a2e15715a@hbeu.edu.cn": {
-   "uid": "af1839ada078047d10363b835c72f79a2e15715a@hbeu.edu.cn",
+  "e7732c7249eb0892afe6f480e6b93e6282d59ecf@hbeu.edu.cn": {
+   "uid": "e7732c7249eb0892afe6f480e6b93e6282d59ecf@hbeu.edu.cn",
    "date": "2027-01-06",
    "start": "16:10",
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
-   "location": "实验楼软件工程实验室(JS-203)"
+   "location": "计科楼软件工程实验室(JS-203)"
   }
  }
 }
