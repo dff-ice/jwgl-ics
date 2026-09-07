@@ -1,0 +1,52 @@
+name: sync-course-ics
+
+on:
+  schedule:
+    # UTC 21:07 = 北京时间次日 05:07，凌晨低峰执行
+    - cron: '7 21 * * *'
+  workflow_dispatch: {}   # 支持仓库页手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jwgl-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 单元测试
+        run: python -m unittest discover -s tests
+
+      - name: 登录教务系统并同步课表
+        id: sync
+        env:
+          JW_USERNAME: ${{ secrets.JW_USERNAME }}
+          JW_PASSWORD: ${{ secrets.JW_PASSWORD }}
+        run: python scripts/sync_course.py
+
+      - name: 有变化则提交并推送
+        run: |
+          set -euo pipefail
+          if git diff --quiet HEAD -- course.ics state.json; then
+            echo "无变化，跳过提交"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add course.ics state.json
+          git commit -m "chore: 同步课表 $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
