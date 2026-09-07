@@ -144,7 +144,9 @@ def main(argv: list[str] | None = None) -> int:
 
     print(f"学期: {sch.term_label or sch.xnm + '/' + sch.xqm}"
           f"  学生: {sch.xm}({sch.xh})  班级: {sch.bjmc}")
-    print(f"课程格: {len(sch.cells)}   展开事件: {len(events)}   取消事件: {len(canceled)}")
+    total_weeks = sum(e.get("occurrences", 0) for e in events)
+    print(f"课程格: {len(sch.cells)}   周期事件: {len(events)}"
+          f"（覆盖周次 {total_weeks} 次）   取消事件: {len(canceled)}")
     print(f"已写入: {args.out}  /  {args.state}")
     return 0
 

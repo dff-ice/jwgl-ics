@@ -44,7 +44,7 @@
     var cancelled = (t.match(/STATUS:CANCELLED/g) || []).length;
     var stamp = (t.match(/DTSTAMP:(\d{8})T(\d{6})Z/) || [])[0] || '';
     var s = document.getElementById('stat');
-    s.textContent = '「' + calname + '」 共 ' + events + ' 条课程事件，最后更新 ' + stamp;
+    s.textContent = '「' + calname + '」 共 ' + events + ' 个课程周期事件（各含多周），最后更新 ' + stamp;
     if (cancelled) s.textContent += '（' + cancelled + ' 条取消记录）';
   }).catch(function () { document.getElementById('stat').textContent = '（course.ics 尚未生成）'; });
 </script>
