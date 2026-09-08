@@ -26,7 +26,7 @@ jobs:
           cache: 'pip'
 
       - name: 安装依赖
-        run: pip install requests icalendar
+        run: pip install -r requirements.txt
 
       - name: 单元测试
         run: python -m unittest discover -s tests

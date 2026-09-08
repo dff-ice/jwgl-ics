@@ -53,7 +53,7 @@ jwgl-ics/
 ## 本地运行
 
 ```bash
-pip install requests icalendar
+pip install -r requirements.txt
 
 # 在线同步（真实登录，凭据从环境变量读）
 export JW_USERNAME=你的学号
