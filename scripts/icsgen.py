@@ -85,10 +85,9 @@ def stable_uid(sch: ZfSchedule, cell: CourseCell, week: int) -> str:
 
 
 def _summary(cell: CourseCell) -> str:
-    """标题：课程名；有授课老师则附上，找不到老师则不附。"""
+    """标题：课程名；"""
     name = cell.kcmc.strip()
-    teacher = cell.teacher.strip()
-    return f"{name} · {teacher}" if teacher else name
+    return f"{name}"
 
 
 def _description(cell: CourseCell, week: int) -> str:
