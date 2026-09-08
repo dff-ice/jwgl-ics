@@ -121,16 +121,16 @@ def main(argv: list[str] | None = None) -> int:
     prev_manifest = prev_state.get("events") or {}
     canceled = icsgen.diff_events(prev_manifest, manifest)
 
-    # --- 生成并写盘 ---
+    # --- 生成并写盘（icalendar 渲染：转义/折行/UTC 自动处理） ---
     prev_by_uid = prev_manifest
     now = _dt.datetime.now(_dt.timezone.utc)
     calname = f"{sch.term_label or '课表'}（{sch.xqmc or cfg.get('school','')}）"
-    text = icsgen.generate_ics(
-        sch, events, canceled, calendar_name=calname, now=now, prev_by_uid=prev_by_uid
+    blob = icsgen.render_calendar(
+        events, canceled, calendar_name=calname, now=now, prev_by_uid=prev_by_uid
     )
 
     args.out.parent.mkdir(parents=True, exist_ok=True)
-    args.out.write_text(text, encoding="utf-8", newline="")
+    args.out.write_bytes(blob)
     state = {
         "generated_at": now.isoformat(),
         "term": {"xnm": sch.xnm, "xqm": sch.xqm, "label": sch.term_label},
@@ -144,9 +144,8 @@ def main(argv: list[str] | None = None) -> int:
 
     print(f"学期: {sch.term_label or sch.xnm + '/' + sch.xqm}"
           f"  学生: {sch.xm}({sch.xh})  班级: {sch.bjmc}")
-    total_weeks = sum(e.get("occurrences", 0) for e in events)
-    print(f"课程格: {len(sch.cells)}   周期事件: {len(events)}"
-          f"（覆盖周次 {total_weeks} 次）   取消事件: {len(canceled)}")
+    print(f"课程格: {len(sch.cells)}   独立事件: {len(events)}（每件=一个上课实例）   "
+          f"取消事件: {len(canceled)}")
     print(f"已写入: {args.out}  /  {args.state}")
     return 0
 
