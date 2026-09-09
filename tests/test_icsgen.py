@@ -86,15 +86,17 @@ class TestBuildEvents(unittest.TestCase):
         self.assertNotEqual(icsgen.stable_uid(self.sch, c, w),
                             icsgen.stable_uid(self.sch, c, w + 1))
 
-    def test_summary_has_teacher(self):
+    def test_summary_is_course_name_only(self):
+        # 标题只含课程名，不含老师
         e = next(x for x in self.events if x["summary"].startswith("数据结构"))
-        self.assertTrue(e["summary"].startswith("数据结构与算法"))
-        self.assertIn("范老师", e["summary"])
+        self.assertEqual(e["summary"], "数据结构与算法")
+        self.assertNotIn("范老师", e["summary"])
 
-    def test_summary_without_teacher_keeps_name(self):
+    def test_summary_ignores_teacher_field(self):
+        # 无论 teacher 有无，标题都不带老师（老师只在 DESCRIPTION 里出现）
         c = next(c for c in self.sch.cells if c.kcmc == "形势与政策")
+        self.assertEqual(icsgen._summary(c), "形势与政策")
         self.assertEqual(icsgen._summary(replace(c, teacher="   ")), "形势与政策")
-        self.assertEqual(icsgen._summary(c), "形势与政策 · 周老师")
 
 
 class TestIcsRender(unittest.TestCase):
