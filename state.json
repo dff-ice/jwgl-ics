@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T23:38:02.045745+00:00",
+ "generated_at": "2026-09-17T23:31:39.246330+00:00",
  "term": {
   "xnm": "2026",
   "xqm": "3",
@@ -348,14 +348,6 @@
    "summary": "数据结构与算法",
    "location": "教1楼306(多媒体)"
   },
-  "198648c13ecc443db208960a3f3c4cb474734cef@hbeu.edu.cn": {
-   "uid": "198648c13ecc443db208960a3f3c4cb474734cef@hbeu.edu.cn",
-   "date": "2026-09-22",
-   "start": "16:10",
-   "end": "17:50",
-   "summary": "网络空间安全导论",
-   "location": "教1楼101(多媒体)"
-  },
   "1ce4c160d37b5ae826073531d405ed6a29eaaf7f@hbeu.edu.cn": {
    "uid": "1ce4c160d37b5ae826073531d405ed6a29eaaf7f@hbeu.edu.cn",
    "date": "2026-09-23",
@@ -387,6 +379,14 @@
    "end": "09:40",
    "summary": "大学英语（三）",
    "location": "教1楼309(多媒体)"
+  },
+  "f97f39dafef5cca6c15b7c6569a1e45facdc77d9@hbeu.edu.cn": {
+   "uid": "f97f39dafef5cca6c15b7c6569a1e45facdc77d9@hbeu.edu.cn",
+   "date": "2026-09-24",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
   },
   "19f9e47d8b4727ba8ba4fa95b76255e206e356db@hbeu.edu.cn": {
    "uid": "19f9e47d8b4727ba8ba4fa95b76255e206e356db@hbeu.edu.cn",
@@ -564,14 +564,6 @@
    "summary": "数据结构与算法",
    "location": "教1楼306(多媒体)"
   },
-  "6201b8b17dab08a1ac9a18a9819285d8136c8292@hbeu.edu.cn": {
-   "uid": "6201b8b17dab08a1ac9a18a9819285d8136c8292@hbeu.edu.cn",
-   "date": "2026-10-06",
-   "start": "16:10",
-   "end": "17:50",
-   "summary": "网络空间安全导论",
-   "location": "教1楼101(多媒体)"
-  },
   "cbc33ba3e8415a49a62dc765f4be74f0c3fd2503@hbeu.edu.cn": {
    "uid": "cbc33ba3e8415a49a62dc765f4be74f0c3fd2503@hbeu.edu.cn",
    "date": "2026-10-07",
@@ -619,6 +611,14 @@
    "end": "11:50",
    "summary": "离散数学",
    "location": "教1楼406(多媒体)"
+  },
+  "892fe61285d9d5df82b907ea4f7c7901d2feb577@hbeu.edu.cn": {
+   "uid": "892fe61285d9d5df82b907ea4f7c7901d2feb577@hbeu.edu.cn",
+   "date": "2026-10-09",
+   "start": "14:00",
+   "end": "15:40",
+   "summary": "网络空间安全导论",
+   "location": "教1楼101(多媒体)"
   },
   "fe6a31b2ba38ef6451a2abfa5cae95c62291d5c2@hbeu.edu.cn": {
    "uid": "fe6a31b2ba38ef6451a2abfa5cae95c62291d5c2@hbeu.edu.cn",
@@ -795,14 +795,6 @@
    "end": "15:40",
    "summary": "数据结构与算法",
    "location": "教1楼306(多媒体)"
-  },
-  "375b73d12928a248c143a715fd6f84052bdb5ca1@hbeu.edu.cn": {
-   "uid": "375b73d12928a248c143a715fd6f84052bdb5ca1@hbeu.edu.cn",
-   "date": "2026-10-20",
-   "start": "16:10",
-   "end": "17:50",
-   "summary": "网络空间安全导论",
-   "location": "教1楼101(多媒体)"
   },
   "c3eb0815d3862c8963cf1e72cd2363ca73be972a@hbeu.edu.cn": {
    "uid": "c3eb0815d3862c8963cf1e72cd2363ca73be972a@hbeu.edu.cn",
@@ -1020,14 +1012,6 @@
    "summary": "数据结构与算法",
    "location": "教1楼306(多媒体)"
   },
-  "9ff8d09013ff7da919991a213763eb06af6cd1e1@hbeu.edu.cn": {
-   "uid": "9ff8d09013ff7da919991a213763eb06af6cd1e1@hbeu.edu.cn",
-   "date": "2026-11-03",
-   "start": "16:10",
-   "end": "17:50",
-   "summary": "网络空间安全导论",
-   "location": "教1楼101(多媒体)"
-  },
   "6e3fa734b2196eae3ee659a1731a415a0656a244@hbeu.edu.cn": {
    "uid": "6e3fa734b2196eae3ee659a1731a415a0656a244@hbeu.edu.cn",
    "date": "2026-11-04",
@@ -1243,14 +1227,6 @@
    "end": "15:40",
    "summary": "数据结构与算法",
    "location": "教1楼306(多媒体)"
-  },
-  "a6482dcb3ee383e3e001a151065e54401f76e0bb@hbeu.edu.cn": {
-   "uid": "a6482dcb3ee383e3e001a151065e54401f76e0bb@hbeu.edu.cn",
-   "date": "2026-11-17",
-   "start": "16:10",
-   "end": "17:50",
-   "summary": "网络空间安全导论",
-   "location": "教1楼101(多媒体)"
   },
   "6b8849093346d8cf2dc52a80fd3e1fe20d468706@hbeu.edu.cn": {
    "uid": "6b8849093346d8cf2dc52a80fd3e1fe20d468706@hbeu.edu.cn",
@@ -1484,14 +1460,6 @@
    "summary": "数据结构与算法",
    "location": "教1楼306(多媒体)"
   },
-  "1870a4fa297454dda3b50181fbfc34825738d6cc@hbeu.edu.cn": {
-   "uid": "1870a4fa297454dda3b50181fbfc34825738d6cc@hbeu.edu.cn",
-   "date": "2026-12-01",
-   "start": "16:10",
-   "end": "17:50",
-   "summary": "网络空间安全导论",
-   "location": "教1楼101(多媒体)"
-  },
   "03024d1a873b8a8541a00888075729713e32014b@hbeu.edu.cn": {
    "uid": "03024d1a873b8a8541a00888075729713e32014b@hbeu.edu.cn",
    "date": "2026-12-02",
@@ -1724,14 +1692,6 @@
    "summary": "数据结构与算法",
    "location": "教1楼306(多媒体)"
   },
-  "24ee377d04c384ff268ec4cf722772079e9f30dd@hbeu.edu.cn": {
-   "uid": "24ee377d04c384ff268ec4cf722772079e9f30dd@hbeu.edu.cn",
-   "date": "2026-12-15",
-   "start": "16:10",
-   "end": "17:50",
-   "summary": "网络空间安全导论",
-   "location": "教1楼101(多媒体)"
-  },
   "83764acdee9ea3d82ed8d128ff7a7457cc408e00@hbeu.edu.cn": {
    "uid": "83764acdee9ea3d82ed8d128ff7a7457cc408e00@hbeu.edu.cn",
    "date": "2026-12-16",
@@ -1859,14 +1819,6 @@
    "end": "11:50",
    "summary": "计算机组成原理",
    "location": "教1楼208(多媒体)"
-  },
-  "7b3d88e593131941946d3c30e016586de497d61c@hbeu.edu.cn": {
-   "uid": "7b3d88e593131941946d3c30e016586de497d61c@hbeu.edu.cn",
-   "date": "2026-12-29",
-   "start": "16:10",
-   "end": "17:50",
-   "summary": "网络空间安全导论",
-   "location": "教1楼101(多媒体)"
   },
   "e7222abfb20a6ea5d4bf20ff456f4a4c91c92a9e@hbeu.edu.cn": {
    "uid": "e7222abfb20a6ea5d4bf20ff456f4a4c91c92a9e@hbeu.edu.cn",
