@@ -29,6 +29,18 @@ class TestParseZcd(unittest.TestCase):
         self.assertEqual(kbmodel.parse_zcd("1-6周,9-12周"),
                          [1, 2, 3, 4, 5, 6, 9, 10, 11, 12])
 
+    def test_parity_is_per_group(self):
+        # '(单)' 只作用于本组，不污染后面的全周段
+        self.assertEqual(kbmodel.parse_zcd("3-7周(单),8-18周"),
+                         [3, 5, 7] + list(range(8, 19)))
+        self.assertEqual(kbmodel.parse_zcd("3-7周(单),8-12周(双)"),
+                         [3, 5, 7, 8, 10, 12])
+        self.assertEqual(kbmodel.parse_zcd("1-4周,6-8周(双)"),
+                         [1, 2, 3, 4, 6, 8])
+        # 全角括号 / '(单周)' 写法
+        self.assertEqual(kbmodel.parse_zcd("3-7周（单周）,8-18周"),
+                         [3, 5, 7] + list(range(8, 19)))
+
     def test_single_week(self):
         self.assertEqual(kbmodel.parse_zcd("5周"), [5])
 

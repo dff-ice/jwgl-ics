@@ -26,40 +26,59 @@ __all__ = ["CourseCell", "parse_zcd", "parse_kb", "ZfSchedule"]
 # --------------------------------------------------------------------------
 _ZCD_SEG_RE = re.compile(r"(\d+)(?:\s*(?:-|–|~|至)\s*(\d+))?")
 _PARITY_MARK = re.compile(r"[单双]")
+# 一组"范围+周(+单双)"，如 "3-7周(单)"、"8-18周"、"（双周）"
+_ZCD_GROUP_RE = re.compile(
+    r"([0-9,，、;；\s\-–~至第]*?)\s*周\s*(?:[（(]\s*([单双])\s*周?\s*[)）])?"
+)
 
 
 def parse_zcd(text: str) -> list[int]:
     """把 '1-16周' / '2-4周(双)' / '3-5周(单)' / '1-8周,10-16周' 展开成周号列表。
 
     - '(单)' 只保留奇数周，'(双)' 只保留偶数周（按"学期周号"的奇偶，与公历无关）。
+      单双标记**只作用于它所在的那一组**：'3-7周(单),8-18周' = 3/5/7 + 8..18，
+      而不是把整串都当成单周。
     - 支持逗号分隔的多段范围，如 '1-6周,9-16周'。
     """
     if not text:
         return []
     t = text.strip()
-    m = _PARITY_MARK.search(t)
-    parity = None
-    if m:
-        parity = "odd" if m.group(0) == "单" else "even"
-    # 去掉"周"及括号内的单双标记，只留数字段
-    body = re.sub(r"周", "", t)
-    body = re.sub(r"[（(][单双][)）]", "", body)
     weeks: set[int] = set()
-    for chunk in re.split(r"[,，、\s]+", body):
-        chunk = chunk.strip()
-        if not chunk:
-            continue
-        seg = _ZCD_SEG_RE.fullmatch(chunk)
-        if not seg:
-            continue
-        a = int(seg.group(1))
-        b = int(seg.group(2)) if seg.group(2) else a
-        for w in range(a, b + 1):
-            if parity == "odd" and w % 2 == 0:
+
+    def add(body: str, parity: str | None) -> None:
+        body = re.sub(r"[\s第]", "", body)
+        for chunk in re.split(r"[,，、;；]+", body):
+            if not chunk:
                 continue
-            if parity == "even" and w % 2 == 1:
+            seg = _ZCD_SEG_RE.fullmatch(chunk)
+            if not seg:
                 continue
-            weeks.add(w)
+            a = int(seg.group(1))
+            b = int(seg.group(2)) if seg.group(2) else a
+            for w in range(a, b + 1):
+                if parity == "odd" and w % 2 == 0:
+                    continue
+                if parity == "even" and w % 2 == 1:
+                    continue
+                weeks.add(w)
+
+    groups = 0
+    for m in _ZCD_GROUP_RE.finditer(t):
+        body = m.group(1)
+        if not re.search(r"\d", body):
+            continue
+        groups += 1
+        mark = m.group(2)
+        add(body, "odd" if mark == "单" else "even" if mark == "双" else None)
+
+    # 兼容没有"周"字的写法（如 "3-7(单)"）
+    if not groups:
+        mark = _PARITY_MARK.search(t)
+        parity = None
+        if mark:
+            parity = "odd" if mark.group(0) == "单" else "even"
+        add(re.sub(r"[（(]\s*[单双]\s*周?\s*[)）]", "", t), parity)
+
     return sorted(weeks)
 
 
