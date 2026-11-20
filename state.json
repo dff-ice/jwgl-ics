@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T01:46:51.895681+00:00",
+ "generated_at": "2026-11-20T03:44:22.552620+00:00",
  "term": {
   "xnm": "2026",
   "xqm": "3",
@@ -1300,14 +1300,6 @@
    "summary": "数据结构与算法",
    "location": "计科楼软件工程实验室(JS-203)"
   },
-  "0027d57026a0718f96f131eab10c5354c8dcc473@hbeu.edu.cn": {
-   "uid": "0027d57026a0718f96f131eab10c5354c8dcc473@hbeu.edu.cn",
-   "date": "2026-11-20",
-   "start": "08:00",
-   "end": "11:50",
-   "summary": "离散数学",
-   "location": "教1楼406(多媒体)"
-  },
   "33bc6b49101815924965dd9cfe69afa9a4f9e478@hbeu.edu.cn": {
    "uid": "33bc6b49101815924965dd9cfe69afa9a4f9e478@hbeu.edu.cn",
    "date": "2026-11-23",
@@ -1843,6 +1835,14 @@
    "end": "17:50",
    "summary": "电子技术与数字逻辑",
    "location": "计科楼软件工程实验室(JS-203)"
+  },
+  "274493db62606cf601d62ef5fe8426679db9449b@hbeu.edu.cn": {
+   "uid": "274493db62606cf601d62ef5fe8426679db9449b@hbeu.edu.cn",
+   "date": "2026-12-25",
+   "start": "08:00",
+   "end": "11:50",
+   "summary": "离散数学",
+   "location": "教1楼406(多媒体)"
   },
   "8380cb19586c3737f7baada3fc0f8c5bbfdf4801@hbeu.edu.cn": {
    "uid": "8380cb19586c3737f7baada3fc0f8c5bbfdf4801@hbeu.edu.cn",
